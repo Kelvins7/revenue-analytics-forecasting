@@ -1,0 +1,36 @@
+# ---------------------------------------------------------------------------
+# DATA PROTECTION: never commit real company exports or credentials.
+# Only the synthetic sample under data/sample/ is allowed into git.
+# ---------------------------------------------------------------------------
+data/*
+!data/sample/
+report.csv
+*.xlsx
+*.xls
+
+# Secrets
+.env
+*.env
+credentials*.json
+secrets*
+
+# Generated outputs (charts/results are reproducible by running the pipeline)
+outputs/*
+!outputs/.gitkeep
+
+# Original pre-refactor script kept locally for reference, not published
+data.py.original
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

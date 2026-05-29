@@ -1,0 +1,1139 @@
+Date,Document Number,Name,Item,Brand,Category,Quantity,Item Rate,Amount (Tax),Amount (Shipping),Amount (Transaction Total),Amount (Discount),Amount,Shipping State/Province
+01/01/2022,SO1001,Maple Grocers,Dish Soap,Aurora,Snacks,56,42.93,162.28,36.6,2903.47,0.0,2704.59,NY
+01/01/2022,SO1002,Riverside Market,Cola 12pk,Northwind,Beverages,65,28.07,123.16,22.29,2198.07,0.0,2052.62,MA
+01/01/2022,SO1003,Maple Grocers,Spring Water 24pk,Vanta,Beverages,91,5.44,33.42,43.31,633.65,0.0,556.92,NY
+01/01/2022,SO1004,Birch & Co,Cola 12pk,Northwind,Beverages,104,9.0,63.18,32.54,1148.72,0.0,1053.0,MA
+01/01/2022,SO1005,Birch & Co,Hand Lotion,Northwind,Snacks,57,43.74,168.29,41.62,3014.74,0.0,2804.83,CT
+01/01/2022,SO1006,Maple Grocers,Trail Mix,Crestline,Personal Care,42,3.03,8.59,49.61,201.37,0.0,143.17,PA
+01/01/2022,SO1007,Summit Foods,Trail Mix,Crestline,Household,37,15.78,39.41,26.24,722.49,0.0,656.84,NJ
+01/01/2022,SO1008,Lakeside Provisions,Spring Water 24pk,Aurora,Household,112,3.97,30.01,26.24,556.47,0.0,500.22,MD
+01/01/2022,SO1009,Willow Distributors,Dish Soap,Crestline,Beverages,46,4.96,15.4,48.69,320.77,0.0,256.68,DE
+01/01/2022,SO1010,Birch & Co,Spring Water 24pk,Vanta,Personal Care,19,22.15,28.41,39.26,541.13,0.0,473.46,NJ
+01/01/2022,SO1011,Willow Distributors,Dish Soap,Crestline,Snacks,55,19.06,70.76,49.16,1299.26,0.0,1179.34,DE
+01/01/2022,SO1012,Maple Grocers,Trail Mix,Aurora,Household,7,39.12,18.48,34.02,360.57,0.0,308.07,NJ
+01/01/2022,SO1013,Riverside Market,Hand Lotion,Northwind,Household,77,5.73,29.78,47.44,573.58,0.0,496.36,CT
+01/01/2022,SO1014,Summit Foods,Dish Soap,Crestline,Household,64,26.66,115.17,19.27,2053.96,0.0,1919.52,NY
+01/01/2022,SO1015,Riverside Market,Cola 12pk,Crestline,Snacks,94,7.1,45.05,34.21,830.08,0.0,750.82,MA
+01/01/2022,SO1016,Summit Foods,Hand Lotion,Northwind,Personal Care,115,31.7,246.07,30.5,4377.76,0.0,4101.19,PA
+01/01/2022,SO1017,Oakwood Retail,Spring Water 24pk,Northwind,Snacks,12,4.44,3.6,45.47,109.01,0.0,59.94,MD
+01/01/2022,SO1018,Oakwood Retail,Hand Lotion,Aurora,Household,40,10.65,28.76,37.77,545.78,0.0,479.25,NJ
+01/01/2022,SO1019,Willow Distributors,Dish Soap,Northwind,Snacks,10,11.73,7.92,28.39,168.27,0.0,131.96,DE
+01/01/2022,SO1020,Lakeside Provisions,Hand Lotion,Vanta,Snacks,97,43.72,286.26,38.76,5095.96,0.0,4770.94,PA
+01/01/2022,SO1021,Harbor Wholesale,Cola 12pk,Northwind,Household,38,19.6,50.27,46.33,934.5,0.0,837.9,DE
+01/01/2022,SO1022,Willow Distributors,Hand Lotion,Vanta,Household,99,41.72,278.79,4.42,4929.77,0.0,4646.56,NY
+01/01/2022,SO1023,Birch & Co,Hand Lotion,Northwind,Beverages,91,24.88,152.83,48.06,2747.98,0.0,2547.09,MD
+01/01/2022,SO1024,Riverside Market,Trail Mix,Aurora,Snacks,89,19.32,116.07,13.57,2064.06,0.0,1934.42,MD
+01/01/2022,SO1025,Lakeside Provisions,Damaged,Vanta,Personal Care,9,15.44,0.0,0.0,0.0,0.0,173.95,
+02/01/2022,SO1026,Birch & Co,Spring Water 24pk,Crestline,Beverages,75,20.78,113.76,19.74,2029.43,0.0,1895.93,DE
+02/01/2022,SO1027,Oakwood Retail,Spring Water 24pk,Crestline,Household,12,3.23,2.83,40.77,90.75,0.0,47.15,CT
+02/01/2022,SO1028,Cedar Mart,Spring Water 24pk,Northwind,Household,85,32.88,203.99,39.51,3643.39,0.0,3399.89,MA
+02/01/2022,SO1029,Birch & Co,Spring Water 24pk,Northwind,Household,9,41.9,27.52,32.55,518.81,0.0,458.74,MD
+02/01/2022,SO1030,Summit Foods,Dish Soap,Northwind,Snacks,32,39.25,91.68,31.16,1650.77,0.0,1527.93,MA
+02/01/2022,SO1031,Willow Distributors,Dish Soap,Aurora,Personal Care,38,7.01,19.44,18.54,362.03,0.0,324.05,NJ
+02/01/2022,SO1032,Oakwood Retail,Dish Soap,Aurora,Snacks,66,16.66,80.26,36.48,1454.36,0.0,1337.62,NJ
+02/01/2022,SO1033,Willow Distributors,Spring Water 24pk,Northwind,Beverages,108,14.54,114.62,28.06,2052.98,0.0,1910.3,DE
+02/01/2022,SO1034,Riverside Market,Cola 12pk,Vanta,Snacks,103,8.02,60.29,35.66,1100.86,0.0,1004.91,NY
+02/01/2022,SO1035,Birch & Co,Trail Mix,Vanta,Household,5,33.31,12.16,11.8,226.57,0.0,202.61,MA
+02/01/2022,SO1036,Harbor Wholesale,Cola 12pk,Vanta,Snacks,18,23.74,31.19,26.14,577.17,0.0,519.84,DE
+02/01/2022,SO1037,Lakeside Provisions,Dish Soap,Crestline,Personal Care,19,7.66,10.62,21.97,209.64,0.0,177.05,MA
+02/01/2022,SO1038,Riverside Market,Trail Mix,Vanta,Snacks,55,4.32,17.34,31.82,338.2,0.0,289.04,NJ
+02/01/2022,SO1039,Maple Grocers,Cola 12pk,Crestline,Snacks,56,26.66,108.97,34.78,1959.95,0.0,1816.2,MA
+02/01/2022,SO1040,Maple Grocers,Spring Water 24pk,Northwind,Beverages,105,13.47,103.23,20.52,1844.32,0.0,1720.57,NY
+02/01/2022,SO1041,Maple Grocers,Dish Soap,Aurora,Beverages,47,11.53,39.55,47.14,745.93,0.0,659.24,MA
+02/01/2022,SO1042,Pine Street Deli,Hand Lotion,Northwind,Snacks,75,15.17,83.04,8.06,1475.18,0.0,1384.08,MA
+02/01/2022,SO1043,Willow Distributors,Cola 12pk,Northwind,Personal Care,70,29.22,149.29,14.78,2652.31,0.0,2488.24,NY
+02/01/2022,SO1044,Lakeside Provisions,Trail Mix,Vanta,Beverages,10,22.17,16.18,10.92,296.8,0.0,269.7,NJ
+02/01/2022,SO1045,Oakwood Retail,Hand Lotion,Vanta,Personal Care,88,40.49,260.07,26.97,4621.6,0.0,4334.56,CT
+02/01/2022,SO1046,Riverside Market,Spring Water 24pk,Aurora,Personal Care,96,17.96,125.85,45.34,2268.64,0.0,2097.45,DE
+02/01/2022,SO1047,Riverside Market,Trail Mix,Crestline,Snacks,5,12.57,4.59,21.36,102.41,0.0,76.46,NY
+02/01/2022,SO1048,Summit Foods,Hand Lotion,Vanta,Snacks,81,39.15,231.46,0.35,4089.53,0.0,3857.72,PA
+02/01/2022,SO1049,Harbor Wholesale,Spring Water 24pk,Vanta,Personal Care,76,25.43,141.07,24.24,2516.43,0.0,2351.12,MD
+02/01/2022,SO1050,Maple Grocers,Cola 12pk,Aurora,Beverages,101,8.03,59.2,16.88,1062.7,0.0,986.62,NJ
+02/01/2022,SO1051,Summit Foods,Hand Lotion,Northwind,Personal Care,83,10.07,61.01,10.94,1088.72,0.0,1016.77,CT
+02/01/2022,SO1052,Harbor Wholesale,Lost,Aurora,Snacks,1,13.66,0.0,0.0,0.0,0.0,235.16,MD
+03/01/2022,SO1053,Lakeside Provisions,Dish Soap,Aurora,Personal Care,6,32.92,14.81,7.4,269.11,0.0,246.9,PA
+03/01/2022,SO1054,Birch & Co,Hand Lotion,Vanta,Snacks,60,4.55,20.47,30.48,392.2,0.0,341.25,NY
+03/01/2022,SO1055,Harbor Wholesale,Spring Water 24pk,Crestline,Beverages,6,20.26,9.12,1.65,162.72,0.0,151.95,DE
+03/01/2022,SO1056,Maple Grocers,Spring Water 24pk,Crestline,Personal Care,100,41.15,308.62,11.98,5464.35,0.0,5143.75,MA
+03/01/2022,SO1057,Maple Grocers,Cola 12pk,Northwind,Beverages,6,25.3,11.38,22.39,223.52,0.0,189.75,MD
+03/01/2022,SO1058,Riverside Market,Cola 12pk,Northwind,Beverages,74,13.17,73.09,33.61,1324.93,0.0,1218.23,DE
+03/01/2022,SO1059,Lakeside Provisions,Spring Water 24pk,Northwind,Snacks,79,18.53,109.79,12.11,1951.74,0.0,1829.84,MA
+03/01/2022,SO1060,Willow Distributors,Spring Water 24pk,Aurora,Personal Care,42,18.45,58.12,31.62,1058.36,0.0,968.62,DE
+03/01/2022,SO1061,Pine Street Deli,Trail Mix,Crestline,Household,74,19.75,109.61,40.82,1977.31,0.0,1826.88,NY
+03/01/2022,SO1062,Lakeside Provisions,Trail Mix,Crestline,Household,20,38.08,57.12,16.04,1025.16,0.0,952.0,CT
+03/01/2022,SO1063,Riverside Market,Spring Water 24pk,Crestline,Personal Care,74,32.22,178.82,42.92,3202.09,0.0,2980.35,MA
+03/01/2022,SO1064,Riverside Market,Cola 12pk,Aurora,Snacks,63,12.25,57.88,35.56,1058.13,0.0,964.69,MA
+03/01/2022,SO1065,Summit Foods,Dish Soap,Crestline,Beverages,23,17.64,30.43,4.81,542.39,0.0,507.15,NY
+03/01/2022,SO1066,Pine Street Deli,Trail Mix,Crestline,Personal Care,109,32.02,261.76,19.34,4643.83,0.0,4362.73,MD
+03/01/2022,SO1067,Willow Distributors,Cola 12pk,Crestline,Beverages,86,38.18,246.26,33.78,4384.39,0.0,4104.35,DE
+03/01/2022,SO1068,Riverside Market,Trail Mix,Crestline,Household,61,7.77,35.55,46.23,674.24,0.0,592.46,NJ
+03/01/2022,SO1069,Birch & Co,Trail Mix,Aurora,Household,98,32.22,236.82,11.43,4195.2,0.0,3946.95,PA
+03/01/2022,SO1070,Oakwood Retail,Trail Mix,Northwind,Household,20,37.32,55.98,27.76,1016.74,0.0,933.0,MA
+03/01/2022,SO1071,Pine Street Deli,Spring Water 24pk,Vanta,Beverages,64,13.95,66.96,49.81,1232.77,0.0,1116.0,DE
+03/01/2022,SO1072,Pine Street Deli,Spring Water 24pk,Vanta,Beverages,16,26.45,31.74,44.13,604.87,0.0,529.0,PA
+03/01/2022,SO1073,Pine Street Deli,Trail Mix,Northwind,Personal Care,13,14.71,14.34,35.02,288.4,0.0,239.04,MA
+03/01/2022,SO1074,Birch & Co,Spring Water 24pk,Vanta,Beverages,84,40.68,256.28,44.35,4572.03,0.0,4271.4,NJ
+03/01/2022,SO1075,Birch & Co,Spring Water 24pk,Northwind,Household,37,29.97,83.17,4.21,1473.49,0.0,1386.11,MA
+03/01/2022,SO1076,Lakeside Provisions,Trail Mix,Northwind,Beverages,76,35.98,205.09,33.45,3656.64,0.0,3418.1,PA
+03/01/2022,SO1077,Oakwood Retail,Damaged,Crestline,Snacks,9,30.87,0.0,0.0,0.0,0.0,53.8,CT
+04/01/2022,SO1078,Oakwood Retail,Cola 12pk,Aurora,Personal Care,70,32.06,163.8,32.6,2926.48,0.0,2730.08,MA
+04/01/2022,SO1079,Harbor Wholesale,Trail Mix,Northwind,Snacks,45,10.39,34.13,0.9,603.81,0.0,568.78,CT
+04/01/2022,SO1080,Summit Foods,Dish Soap,Aurora,Personal Care,18,16.67,21.9,37.32,424.24,0.0,365.02,MD
+04/01/2022,SO1081,Pine Street Deli,Trail Mix,Northwind,Beverages,12,38.67,33.87,32.88,631.26,0.0,564.51,CT
+04/01/2022,SO1082,Cedar Mart,Trail Mix,Aurora,Snacks,37,25.79,69.65,25.44,1255.92,0.0,1160.83,MD
+04/01/2022,SO1083,Oakwood Retail,Dish Soap,Vanta,Snacks,90,14.14,92.89,12.2,1653.22,0.0,1548.13,NY
+04/01/2022,SO1084,Harbor Wholesale,Hand Lotion,Aurora,Household,42,44.11,135.22,24.34,2413.28,0.0,2253.72,PA
+04/01/2022,SO1085,Pine Street Deli,Dish Soap,Aurora,Personal Care,12,29.51,25.85,39.74,496.38,0.0,430.79,DE
+04/01/2022,SO1086,Maple Grocers,Spring Water 24pk,Crestline,Household,34,30.09,74.67,33.45,1352.68,0.0,1244.56,NY
+04/01/2022,SO1087,Maple Grocers,Spring Water 24pk,Crestline,Personal Care,101,11.2,82.57,36.12,1494.8,0.0,1376.11,PA
+04/01/2022,SO1088,Lakeside Provisions,Cola 12pk,Crestline,Beverages,23,27.02,45.36,38.43,839.8,0.0,756.01,CT
+04/01/2022,SO1089,Pine Street Deli,Spring Water 24pk,Northwind,Personal Care,21,44.77,68.62,23.5,1235.84,0.0,1143.72,NJ
+04/01/2022,SO1090,Oakwood Retail,Hand Lotion,Northwind,Beverages,50,41.42,151.16,18.51,2689.05,0.0,2519.38,DE
+04/01/2022,SO1091,Willow Distributors,Dish Soap,Crestline,Beverages,109,43.03,342.34,16.54,6064.62,0.0,5705.74,DE
+04/01/2022,SO1092,Birch & Co,Dish Soap,Crestline,Personal Care,50,43.6,159.12,48.18,2859.28,0.0,2651.98,PA
+04/01/2022,SO1093,Pine Street Deli,Cola 12pk,Vanta,Snacks,101,6.16,45.41,15.28,817.55,0.0,756.86,NY
+04/01/2022,SO1094,Lakeside Provisions,Trail Mix,Vanta,Household,36,38.75,101.82,15.85,1814.7,0.0,1697.03,CT
+04/01/2022,SO1095,Pine Street Deli,Dish Soap,Aurora,Snacks,22,26.39,42.38,46.81,795.47,0.0,706.28,CT
+04/01/2022,SO1096,Cedar Mart,Hand Lotion,Crestline,Personal Care,62,42.06,190.34,3.52,3366.17,0.0,3172.31,DE
+04/01/2022,SO1097,Harbor Wholesale,Volume Discount,Vanta,Snacks,1,-140.81,0.0,0.0,0.0,84.56,-65.75,DE
+04/01/2022,SO1098,Riverside Market,Lost,Crestline,Beverages,1,38.64,0.0,0.0,0.0,0.0,152.47,CT
+05/01/2022,SO1099,Harbor Wholesale,Trail Mix,Crestline,Snacks,52,26.22,92.03,14.83,1640.73,0.0,1533.87,NJ
+05/01/2022,SO1100,Harbor Wholesale,Hand Lotion,Aurora,Beverages,30,37.02,74.97,43.35,1367.75,0.0,1249.43,CT
+05/01/2022,SO1101,Willow Distributors,Trail Mix,Vanta,Personal Care,17,6.43,7.38,0.26,130.61,0.0,122.97,CT
+05/01/2022,SO1102,Harbor Wholesale,Trail Mix,Vanta,Beverages,40,36.53,98.63,32.5,1774.98,0.0,1643.85,MD
+05/01/2022,SO1103,Lakeside Provisions,Trail Mix,Aurora,Snacks,114,36.42,280.25,44.5,4995.61,0.0,4670.86,MD
+05/01/2022,SO1104,Maple Grocers,Cola 12pk,Vanta,Snacks,91,4.16,25.55,28.94,480.37,0.0,425.88,MD
+05/01/2022,SO1105,Cedar Mart,Trail Mix,Aurora,Personal Care,36,27.29,66.31,1.8,1173.35,0.0,1105.24,DE
+05/01/2022,SO1106,Cedar Mart,Cola 12pk,Crestline,Personal Care,29,9.51,18.62,49.09,377.97,0.0,310.26,MD
+05/01/2022,SO1107,Summit Foods,Hand Lotion,Vanta,Personal Care,26,27.81,48.81,1.53,863.78,0.0,813.44,PA
+05/01/2022,SO1108,Pine Street Deli,Cola 12pk,Northwind,Personal Care,56,4.63,17.5,15.16,324.35,0.0,291.69,DE
+05/01/2022,SO1109,Pine Street Deli,Hand Lotion,Northwind,Beverages,111,8.34,62.49,26.11,1130.06,0.0,1041.46,DE
+05/01/2022,SO1110,Harbor Wholesale,Dish Soap,Crestline,Household,57,14.4,55.4,48.26,1027.06,0.0,923.4,PA
+05/01/2022,SO1111,Summit Foods,Trail Mix,Aurora,Snacks,107,6.58,47.52,2.58,842.17,0.0,792.07,CT
+05/01/2022,SO1112,Harbor Wholesale,Spring Water 24pk,Northwind,Personal Care,98,25.71,170.07,31.87,3036.47,0.0,2834.53,CT
+05/01/2022,SO1113,Birch & Co,Hand Lotion,Crestline,Personal Care,56,8.58,32.43,48.48,621.45,0.0,540.54,NJ
+05/01/2022,SO1114,Lakeside Provisions,Hand Lotion,Northwind,Beverages,110,16.56,122.96,39.76,2212.02,0.0,2049.3,MD
+05/01/2022,SO1115,Cedar Mart,Spring Water 24pk,Vanta,Household,67,21.21,95.92,37.2,1731.82,0.0,1598.7,PA
+05/01/2022,SO1116,Lakeside Provisions,Cola 12pk,Vanta,Snacks,94,4.06,25.76,48.13,503.23,0.0,429.34,CT
+05/01/2022,SO1117,Pine Street Deli,Hand Lotion,Northwind,Personal Care,27,20.99,38.25,34.42,710.24,0.0,637.57,NJ
+05/01/2022,SO1118,Oakwood Retail,Hand Lotion,Vanta,Snacks,5,10.28,3.47,7.82,69.11,0.0,57.82,MD
+05/01/2022,SO1119,Summit Foods,Cola 12pk,Vanta,Beverages,38,13.07,33.52,4.69,596.95,0.0,558.74,CT
+05/01/2022,SO1120,Riverside Market,Hand Lotion,Aurora,Snacks,93,30.73,192.91,14.0,3422.04,0.0,3215.13,MD
+05/01/2022,SO1121,Summit Foods,Spring Water 24pk,Vanta,Household,20,24.7,33.34,32.86,621.95,0.0,555.75,CT
+05/01/2022,SO1122,Oakwood Retail,Volume Discount,Northwind,Personal Care,1,-151.41,0.0,0.0,0.0,28.59,-121.89,PA
+05/01/2022,SO1123,Oakwood Retail,Lost,Crestline,Personal Care,6,3.6,0.0,0.0,0.0,0.0,137.05,MA
+06/01/2022,SO1124,Cedar Mart,Spring Water 24pk,Aurora,Beverages,51,4.71,14.41,42.77,297.39,0.0,240.21,PA
+06/01/2022,SO1125,Riverside Market,Spring Water 24pk,Northwind,Beverages,73,22.92,100.39,4.89,1778.44,0.0,1673.16,NY
+06/01/2022,SO1126,Maple Grocers,Cola 12pk,Northwind,Snacks,52,36.89,115.1,17.32,2050.7,0.0,1918.28,NY
+06/01/2022,SO1127,Cedar Mart,Spring Water 24pk,Northwind,Snacks,98,30.29,178.11,2.4,3148.93,0.0,2968.42,CT
+06/01/2022,SO1128,Oakwood Retail,Trail Mix,Crestline,Beverages,73,40.24,176.25,13.04,3126.81,0.0,2937.52,MD
+06/01/2022,SO1129,Pine Street Deli,Spring Water 24pk,Northwind,Beverages,14,29.29,24.6,25.16,459.82,0.0,410.06,PA
+06/01/2022,SO1130,Lakeside Provisions,Trail Mix,Vanta,Beverages,5,25.65,7.69,34.2,170.14,0.0,128.25,MA
+06/01/2022,SO1131,Riverside Market,Dish Soap,Northwind,Beverages,20,5.96,7.15,32.12,158.47,0.0,119.2,MD
+06/01/2022,SO1132,Oakwood Retail,Cola 12pk,Aurora,Personal Care,117,39.42,276.73,31.82,4920.69,0.0,4612.14,DE
+06/01/2022,SO1133,Riverside Market,Cola 12pk,Crestline,Household,88,27.17,143.46,19.41,2553.83,0.0,2390.96,NJ
+06/01/2022,SO1134,Cedar Mart,Spring Water 24pk,Vanta,Personal Care,37,22.25,49.4,27.28,899.93,0.0,823.25,PA
+06/01/2022,SO1135,Summit Foods,Hand Lotion,Vanta,Snacks,105,29.29,184.53,41.02,3301.0,0.0,3075.45,DE
+06/01/2022,SO1136,Willow Distributors,Cola 12pk,Crestline,Personal Care,44,41.02,108.29,9.79,1922.96,0.0,1804.88,CT
+06/01/2022,SO1137,Willow Distributors,Dish Soap,Vanta,Household,17,12.01,12.25,18.86,235.28,0.0,204.17,MD
+06/01/2022,SO1138,Riverside Market,Dish Soap,Northwind,Personal Care,119,28.97,206.85,16.83,3671.11,0.0,3447.43,NY
+06/01/2022,SO1139,Willow Distributors,Cola 12pk,Vanta,Personal Care,94,16.4,92.5,42.24,1676.34,0.0,1541.6,PA
+06/01/2022,SO1140,Cedar Mart,Dish Soap,Aurora,Snacks,94,17.31,97.63,13.03,1737.8,0.0,1627.14,CT
+06/01/2022,SO1141,Oakwood Retail,Dish Soap,Northwind,Household,11,7.96,5.25,34.84,127.65,0.0,87.56,PA
+06/01/2022,SO1142,Birch & Co,Spring Water 24pk,Crestline,Snacks,113,42.34,287.07,1.96,5073.45,0.0,4784.42,NJ
+06/01/2022,SO1143,Lakeside Provisions,Hand Lotion,Northwind,Snacks,93,36.75,205.06,14.1,3636.91,0.0,3417.75,DE
+06/01/2022,SO1144,Cedar Mart,Hand Lotion,Vanta,Beverages,14,20.79,17.46,28.43,336.95,0.0,291.06,NJ
+06/01/2022,SO1145,Harbor Wholesale,Hand Lotion,Crestline,Snacks,103,44.6,275.63,20.63,4890.06,0.0,4593.8,PA
+06/01/2022,SO1146,Willow Distributors,Volume Discount,Crestline,Personal Care,1,-159.75,0.0,0.0,0.0,81.34,-187.54,MA
+07/01/2022,SO1147,Lakeside Provisions,Cola 12pk,Crestline,Household,59,34.54,106.99,37.73,1927.85,0.0,1783.13,PA
+07/01/2022,SO1148,Pine Street Deli,Dish Soap,Vanta,Household,109,18.86,107.93,26.72,1933.42,0.0,1798.77,NY
+07/01/2022,SO1149,Harbor Wholesale,Dish Soap,Aurora,Beverages,88,37.71,174.22,16.0,3093.89,0.0,2903.67,DE
+07/01/2022,SO1150,Harbor Wholesale,Trail Mix,Northwind,Personal Care,63,7.2,23.81,2.67,423.38,0.0,396.9,PA
+07/01/2022,SO1151,Riverside Market,Trail Mix,Crestline,Household,65,41.03,140.01,4.56,2478.15,0.0,2333.58,NY
+07/01/2022,SO1152,Summit Foods,Dish Soap,Crestline,Beverages,75,43.19,170.06,33.84,3038.24,0.0,2834.34,DE
+07/01/2022,SO1153,Pine Street Deli,Spring Water 24pk,Northwind,Beverages,56,27.08,79.62,31.59,1438.13,0.0,1326.92,MA
+07/01/2022,SO1154,Summit Foods,Hand Lotion,Crestline,Beverages,73,15.31,58.68,16.43,1053.04,0.0,977.93,MD
+07/01/2022,SO1155,Willow Distributors,Dish Soap,Aurora,Personal Care,89,34.6,161.67,39.58,2895.73,0.0,2694.48,CT
+07/01/2022,SO1156,Oakwood Retail,Trail Mix,Vanta,Beverages,61,7.77,24.88,46.55,486.15,0.0,414.72,PA
+07/01/2022,SO1157,Riverside Market,Spring Water 24pk,Vanta,Personal Care,62,5.42,17.64,27.48,339.16,0.0,294.04,CT
+07/01/2022,SO1158,Willow Distributors,Spring Water 24pk,Aurora,Snacks,9,33.96,16.05,27.3,310.79,0.0,267.44,NY
+07/01/2022,SO1159,Riverside Market,Trail Mix,Crestline,Beverages,79,7.92,32.85,7.15,587.47,0.0,547.47,MA
+07/01/2022,SO1160,Willow Distributors,Cola 12pk,Vanta,Snacks,78,38.15,156.22,43.34,2803.3,0.0,2603.74,MD
+07/01/2022,SO1161,Cedar Mart,Hand Lotion,Vanta,Household,106,6.53,36.34,35.05,677.05,0.0,605.66,MD
+07/01/2022,SO1162,Pine Street Deli,Cola 12pk,Vanta,Beverages,46,19.66,47.48,44.59,883.39,0.0,791.32,MA
+07/01/2022,SO1163,Harbor Wholesale,Trail Mix,Aurora,Household,70,6.42,23.59,4.24,421.05,0.0,393.22,DE
+07/01/2022,SO1164,Summit Foods,Trail Mix,Aurora,Snacks,87,27.41,125.2,43.16,2254.95,0.0,2086.59,MA
+07/01/2022,SO1165,Riverside Market,Damaged,Aurora,Personal Care,7,44.41,0.0,0.0,0.0,0.0,615.03,
+08/01/2022,SO1166,Pine Street Deli,Spring Water 24pk,Vanta,Snacks,35,23.23,38.22,18.9,694.14,0.0,637.02,PA
+08/01/2022,SO1167,Cedar Mart,Spring Water 24pk,Crestline,Snacks,43,20.82,42.09,45.32,788.84,0.0,701.43,PA
+08/01/2022,SO1168,Lakeside Provisions,Spring Water 24pk,Northwind,Snacks,43,21.25,42.96,12.68,771.56,0.0,715.92,DE
+08/01/2022,SO1169,Pine Street Deli,Trail Mix,Northwind,Beverages,118,22.68,125.81,2.82,2225.45,0.0,2096.82,NJ
+08/01/2022,SO1170,Pine Street Deli,Cola 12pk,Northwind,Household,96,35.22,158.95,41.14,2849.18,0.0,2649.09,CT
+08/01/2022,SO1171,Cedar Mart,Dish Soap,Aurora,Personal Care,43,34.33,69.4,29.17,1255.16,0.0,1156.59,PA
+08/01/2022,SO1172,Cedar Mart,Spring Water 24pk,Vanta,Beverages,66,19.81,61.46,23.89,1109.74,0.0,1024.39,CT
+08/01/2022,SO1173,Willow Distributors,Dish Soap,Crestline,Beverages,29,39.48,53.82,11.18,962.04,0.0,897.04,NJ
+08/01/2022,SO1174,Willow Distributors,Cola 12pk,Northwind,Beverages,10,36.69,17.25,48.9,353.61,0.0,287.46,MD
+08/01/2022,SO1175,Willow Distributors,Spring Water 24pk,Crestline,Snacks,49,4.81,11.08,44.56,240.3,0.0,184.66,CT
+08/01/2022,SO1176,Pine Street Deli,Trail Mix,Vanta,Personal Care,89,44.7,187.02,3.69,3307.68,0.0,3116.97,DE
+08/01/2022,SO1177,Riverside Market,Hand Lotion,Vanta,Household,103,32.21,155.96,3.77,2759.07,0.0,2599.34,CT
+08/01/2022,SO1178,Oakwood Retail,Spring Water 24pk,Crestline,Snacks,51,29.43,70.56,34.79,1281.32,0.0,1175.97,PA
+08/01/2022,SO1179,Cedar Mart,Dish Soap,Vanta,Personal Care,35,44.82,73.74,34.85,1337.66,0.0,1229.07,MD
+08/01/2022,SO1180,Cedar Mart,Spring Water 24pk,Aurora,Household,7,40.85,13.44,2.27,239.75,0.0,224.04,PA
+08/01/2022,SO1181,Riverside Market,Hand Lotion,Crestline,Beverages,16,43.27,32.55,2.89,577.87,0.0,542.43,DE
+08/01/2022,SO1182,Lakeside Provisions,Spring Water 24pk,Vanta,Snacks,106,22.14,110.32,31.01,1980.06,0.0,1838.73,MA
+08/01/2022,SO1183,Willow Distributors,Hand Lotion,Crestline,Personal Care,12,10.13,5.71,32.34,133.29,0.0,95.24,MD
+08/01/2022,SO1184,Harbor Wholesale,Dish Soap,Aurora,Snacks,12,17.84,10.06,29.18,206.97,0.0,167.73,PA
+08/01/2022,SO1185,Cedar Mart,Spring Water 24pk,Vanta,Beverages,96,18.13,81.82,13.0,1458.48,0.0,1363.66,DE
+08/01/2022,SO1186,Summit Foods,Dish Soap,Northwind,Beverages,31,32.32,47.1,26.8,858.9,0.0,785.0,MA
+08/01/2022,SO1187,Riverside Market,Trail Mix,Vanta,Beverages,37,20.27,35.26,30.14,653.01,0.0,587.61,CT
+08/01/2022,SO1188,Summit Foods,Hand Lotion,Aurora,Household,116,9.83,53.6,45.55,992.55,0.0,893.4,MA
+09/01/2022,SO1189,Lakeside Provisions,Hand Lotion,Crestline,Personal Care,51,41.61,95.49,4.14,1691.21,0.0,1591.58,NY
+09/01/2022,SO1190,Birch & Co,Trail Mix,Vanta,Personal Care,34,39.37,60.24,2.26,1066.44,0.0,1003.94,NY
+09/01/2022,SO1191,Riverside Market,Dish Soap,Northwind,Personal Care,37,35.66,59.37,24.02,1072.95,0.0,989.56,PA
+09/01/2022,SO1192,Maple Grocers,Dish Soap,Crestline,Household,115,9.32,48.23,29.71,881.79,0.0,803.85,MD
+09/01/2022,SO1193,Summit Foods,Hand Lotion,Vanta,Personal Care,67,19.51,58.82,41.46,1080.66,0.0,980.38,PA
+09/01/2022,SO1194,Birch & Co,Cola 12pk,Crestline,Personal Care,53,38.21,91.13,23.43,1633.41,0.0,1518.85,CT
+09/01/2022,SO1195,Harbor Wholesale,Trail Mix,Crestline,Personal Care,103,8.62,39.95,0.68,706.53,0.0,665.9,NY
+09/01/2022,SO1196,Maple Grocers,Dish Soap,Vanta,Personal Care,59,39.32,104.39,40.65,1884.95,0.0,1739.91,DE
+09/01/2022,SO1197,Lakeside Provisions,Trail Mix,Vanta,Personal Care,99,34.5,153.7,45.66,2760.98,0.0,2561.62,NJ
+09/01/2022,SO1198,Birch & Co,Cola 12pk,Northwind,Household,27,35.3,42.89,47.24,804.95,0.0,714.82,MD
+09/01/2022,SO1199,Cedar Mart,Spring Water 24pk,Aurora,Personal Care,78,18.87,66.23,12.05,1182.18,0.0,1103.9,NJ
+09/01/2022,SO1200,Lakeside Provisions,Trail Mix,Northwind,Beverages,77,8.42,29.18,47.7,563.14,0.0,486.26,CT
+09/01/2022,SO1201,Oakwood Retail,Cola 12pk,Crestline,Personal Care,81,11.7,42.65,43.91,797.34,0.0,710.78,DE
+09/01/2022,SO1202,Oakwood Retail,Cola 12pk,Aurora,Personal Care,108,28.96,140.75,17.91,2504.42,0.0,2345.76,PA
+09/01/2022,SO1203,Birch & Co,Spring Water 24pk,Vanta,Beverages,76,3.93,13.44,24.91,262.36,0.0,224.01,NY
+09/01/2022,SO1204,Harbor Wholesale,Spring Water 24pk,Crestline,Personal Care,58,35.44,92.5,26.01,1660.15,0.0,1541.64,NJ
+09/01/2022,SO1205,Cedar Mart,Trail Mix,Aurora,Household,16,37.29,26.85,48.4,522.73,0.0,447.48,NJ
+09/01/2022,SO1206,Oakwood Retail,Spring Water 24pk,Aurora,Household,98,39.82,175.61,20.17,3122.55,0.0,2926.77,PA
+09/01/2022,SO1207,Lakeside Provisions,Trail Mix,Crestline,Snacks,116,23.16,120.9,21.03,2156.85,0.0,2014.92,MA
+09/01/2022,SO1208,Willow Distributors,Trail Mix,Vanta,Snacks,105,29.05,137.26,35.2,2460.15,0.0,2287.69,NY
+09/01/2022,SO1209,Willow Distributors,Hand Lotion,Aurora,Snacks,55,40.93,101.3,30.86,1820.52,0.0,1688.36,CT
+09/01/2022,SO1210,Harbor Wholesale,Hand Lotion,Northwind,Household,102,17.72,81.33,29.5,1466.41,0.0,1355.58,CT
+09/01/2022,SO1211,Pine Street Deli,Volume Discount,Aurora,Personal Care,1,-98.75,0.0,0.0,0.0,182.75,-82.69,PA
+09/01/2022,SO1212,Birch & Co,Damaged,Aurora,Personal Care,8,41.24,0.0,0.0,0.0,0.0,273.47,DE
+10/01/2022,SO1213,Lakeside Provisions,Dish Soap,Crestline,Personal Care,55,32.3,83.51,39.82,1515.21,0.0,1391.88,MD
+10/01/2022,SO1214,Harbor Wholesale,Hand Lotion,Crestline,Personal Care,14,41.92,27.59,24.61,512.02,0.0,459.82,NJ
+10/01/2022,SO1215,Lakeside Provisions,Cola 12pk,Northwind,Household,88,22.28,92.17,49.0,1677.32,0.0,1536.15,MA
+10/01/2022,SO1216,Pine Street Deli,Spring Water 24pk,Crestline,Personal Care,57,17.59,47.13,10.46,843.14,0.0,785.55,PA
+10/01/2022,SO1217,Willow Distributors,Spring Water 24pk,Aurora,Personal Care,47,13.09,28.92,3.79,514.74,0.0,482.03,MD
+10/01/2022,SO1218,Harbor Wholesale,Cola 12pk,Crestline,Household,27,8.38,10.64,7.6,195.51,0.0,177.27,NY
+10/01/2022,SO1219,Willow Distributors,Dish Soap,Northwind,Snacks,20,29.92,28.13,9.09,506.06,0.0,468.84,DE
+10/01/2022,SO1220,Maple Grocers,Dish Soap,Aurora,Personal Care,60,20.29,57.23,43.72,1054.78,0.0,953.83,NJ
+10/01/2022,SO1221,Summit Foods,Spring Water 24pk,Crestline,Household,31,31.04,45.23,8.62,807.76,0.0,753.91,PA
+10/01/2022,SO1222,Summit Foods,Trail Mix,Vanta,Snacks,55,4.72,12.2,8.45,224.04,0.0,203.39,MD
+10/01/2022,SO1223,Birch & Co,Cola 12pk,Crestline,Household,96,17.6,79.43,1.59,1404.81,0.0,1323.79,MD
+10/01/2022,SO1224,Pine Street Deli,Hand Lotion,Northwind,Household,74,8.07,28.07,23.04,519.0,0.0,467.89,DE
+10/01/2022,SO1225,Riverside Market,Hand Lotion,Crestline,Beverages,94,40.56,179.23,6.44,3172.85,0.0,2987.18,NY
+10/01/2022,SO1226,Lakeside Provisions,Cola 12pk,Northwind,Household,94,32.0,141.4,1.97,2500.12,0.0,2356.75,NJ
+10/01/2022,SO1227,Maple Grocers,Dish Soap,Vanta,Beverages,51,29.37,70.41,4.09,1248.07,0.0,1173.57,CT
+10/01/2022,SO1228,Pine Street Deli,Cola 12pk,Crestline,Personal Care,98,9.59,44.18,18.86,799.38,0.0,736.34,MD
+10/01/2022,SO1229,Riverside Market,Trail Mix,Crestline,Personal Care,85,14.63,58.46,40.31,1073.08,0.0,974.31,NJ
+10/01/2022,SO1230,Willow Distributors,Trail Mix,Crestline,Beverages,117,28.09,154.5,49.31,2778.79,0.0,2574.98,DE
+10/01/2022,SO1231,Pine Street Deli,Hand Lotion,Vanta,Beverages,51,18.56,44.5,24.23,810.35,0.0,741.62,NY
+10/01/2022,SO1232,Maple Grocers,Dish Soap,Aurora,Personal Care,94,34.92,154.31,26.56,2752.67,0.0,2571.8,NJ
+10/01/2022,SO1233,Harbor Wholesale,Cola 12pk,Aurora,Snacks,6,34.39,9.7,1.83,173.2,0.0,161.67,CT
+10/01/2022,SO1234,Oakwood Retail,Cola 12pk,Vanta,Personal Care,60,8.59,24.23,34.36,462.4,0.0,403.81,MA
+10/01/2022,SO1235,Lakeside Provisions,Spring Water 24pk,Northwind,Personal Care,27,24.49,31.08,26.61,575.76,0.0,518.07,MA
+10/01/2022,SO1236,Pine Street Deli,Spring Water 24pk,Vanta,Household,113,39.42,209.4,17.71,3717.15,0.0,3490.04,NY
+10/01/2022,SO1237,Cedar Mart,Trail Mix,Vanta,Household,119,13.18,73.73,13.46,1316.04,0.0,1228.85,NJ
+10/01/2022,SO1238,Birch & Co,Dish Soap,Crestline,Beverages,105,10.66,52.62,28.2,957.78,0.0,876.96,CT
+10/01/2022,SO1239,Harbor Wholesale,Spring Water 24pk,Crestline,Personal Care,21,11.88,11.73,16.37,223.57,0.0,195.47,NJ
+10/01/2022,SO1240,Harbor Wholesale,Volume Discount,Aurora,Beverages,1,-180.29,0.0,0.0,0.0,126.85,-142.24,MD
+11/01/2022,SO1241,Harbor Wholesale,Trail Mix,Crestline,Snacks,115,27.54,166.27,36.84,2974.32,0.0,2771.21,NJ
+11/01/2022,SO1242,Willow Distributors,Trail Mix,Northwind,Snacks,115,34.31,207.15,21.58,3681.17,0.0,3452.44,PA
+11/01/2022,SO1243,Willow Distributors,Spring Water 24pk,Northwind,Household,87,18.91,86.37,16.87,1542.76,0.0,1439.52,MD
+11/01/2022,SO1244,Summit Foods,Cola 12pk,Northwind,Household,56,30.13,88.58,28.54,1593.49,0.0,1476.37,MD
+11/01/2022,SO1245,Riverside Market,Spring Water 24pk,Northwind,Snacks,60,23.93,75.38,16.52,1348.22,0.0,1256.32,NJ
+11/01/2022,SO1246,Harbor Wholesale,Cola 12pk,Crestline,Household,37,3.32,6.45,11.27,125.2,0.0,107.48,NJ
+11/01/2022,SO1247,Pine Street Deli,Spring Water 24pk,Northwind,Snacks,74,13.33,51.79,8.03,922.94,0.0,863.12,DE
+11/01/2022,SO1248,Birch & Co,Spring Water 24pk,Vanta,Beverages,79,6.69,27.75,40.29,530.49,0.0,462.45,CT
+11/01/2022,SO1249,Oakwood Retail,Cola 12pk,Vanta,Beverages,28,40.66,59.77,4.01,1059.95,0.0,996.17,CT
+11/01/2022,SO1250,Willow Distributors,Spring Water 24pk,Northwind,Household,119,3.77,23.55,34.85,450.95,0.0,392.55,CT
+11/01/2022,SO1251,Maple Grocers,Hand Lotion,Aurora,Personal Care,28,7.71,11.33,19.89,220.12,0.0,188.9,CT
+11/01/2022,SO1252,Cedar Mart,Hand Lotion,Aurora,Beverages,96,41.53,209.31,0.27,3698.1,0.0,3488.52,NJ
+11/01/2022,SO1253,Willow Distributors,Trail Mix,Crestline,Beverages,117,23.61,145.02,36.14,2598.23,0.0,2417.07,NY
+11/01/2022,SO1254,Willow Distributors,Cola 12pk,Crestline,Household,66,42.03,145.63,27.84,2600.7,0.0,2427.23,CT
+11/01/2022,SO1255,Cedar Mart,Cola 12pk,Crestline,Personal Care,12,23.02,14.5,41.93,298.14,0.0,241.71,NJ
+11/01/2022,SO1256,Birch & Co,Trail Mix,Aurora,Personal Care,9,10.86,5.13,16.18,106.83,0.0,85.52,CT
+11/01/2022,SO1257,Lakeside Provisions,Dish Soap,Northwind,Personal Care,23,11.38,13.74,36.81,279.57,0.0,229.02,CT
+11/01/2022,SO1258,Riverside Market,Dish Soap,Vanta,Personal Care,16,7.82,6.57,30.53,146.58,0.0,109.48,PA
+11/01/2022,SO1259,Oakwood Retail,Trail Mix,Crestline,Personal Care,68,6.67,23.81,25.31,445.98,0.0,396.86,NJ
+11/01/2022,SO1260,Riverside Market,Damaged,Aurora,Personal Care,3,5.18,0.0,0.0,0.0,0.0,302.45,NY
+12/01/2022,SO1261,Summit Foods,Cola 12pk,Crestline,Beverages,9,5.66,3.06,49.5,103.5,0.0,50.94,MA
+12/01/2022,SO1262,Riverside Market,Hand Lotion,Crestline,Household,17,31.75,32.38,4.39,576.52,0.0,539.75,MD
+12/01/2022,SO1263,Maple Grocers,Dish Soap,Vanta,Household,67,31.62,127.11,38.01,2283.66,0.0,2118.54,PA
+12/01/2022,SO1264,Willow Distributors,Cola 12pk,Aurora,Snacks,79,22.87,108.4,30.31,1945.44,0.0,1806.73,NY
+12/01/2022,SO1265,Harbor Wholesale,Spring Water 24pk,Vanta,Household,39,17.65,41.3,46.48,776.13,0.0,688.35,MD
+12/01/2022,SO1266,Riverside Market,Dish Soap,Crestline,Snacks,66,34.33,135.95,20.43,2422.16,0.0,2265.78,MD
+12/01/2022,SO1267,Birch & Co,Cola 12pk,Vanta,Beverages,79,42.41,201.02,9.06,3560.47,0.0,3350.39,MA
+12/01/2022,SO1268,Maple Grocers,Trail Mix,Crestline,Household,39,41.91,98.07,36.08,1768.64,0.0,1634.49,DE
+12/01/2022,SO1269,Oakwood Retail,Dish Soap,Crestline,Beverages,64,38.36,147.3,6.99,2609.33,0.0,2455.04,NY
+12/01/2022,SO1270,Willow Distributors,Hand Lotion,Northwind,Beverages,109,34.52,225.76,39.98,4028.42,0.0,3762.68,NY
+12/01/2022,SO1271,Riverside Market,Cola 12pk,Aurora,Snacks,39,9.9,23.17,40.73,450.0,0.0,386.1,CT
+12/01/2022,SO1272,Cedar Mart,Dish Soap,Vanta,Snacks,82,24.97,122.85,17.94,2188.33,0.0,2047.54,PA
+12/01/2022,SO1273,Oakwood Retail,Cola 12pk,Crestline,Beverages,113,27.71,187.87,34.15,3353.25,0.0,3131.23,NJ
+12/01/2022,SO1274,Summit Foods,Cola 12pk,Northwind,Beverages,76,21.44,97.77,18.85,1746.06,0.0,1629.44,DE
+12/01/2022,SO1275,Pine Street Deli,Hand Lotion,Aurora,Personal Care,55,29.21,96.39,26.99,1729.93,0.0,1606.55,CT
+12/01/2022,SO1276,Lakeside Provisions,Dish Soap,Vanta,Snacks,67,24.11,96.92,11.61,1723.9,0.0,1615.37,MD
+12/01/2022,SO1277,Oakwood Retail,Hand Lotion,Aurora,Beverages,101,19.44,117.81,26.59,2107.84,0.0,1963.44,PA
+12/01/2022,SO1278,Birch & Co,Dish Soap,Vanta,Beverages,57,41.07,140.46,31.21,2512.66,0.0,2340.99,NY
+12/01/2022,SO1279,Willow Distributors,Spring Water 24pk,Vanta,Beverages,55,21.12,69.7,16.64,1247.94,0.0,1161.6,NY
+12/01/2022,SO1280,Harbor Wholesale,Trail Mix,Crestline,Household,55,17.07,56.33,6.96,1002.14,0.0,938.85,PA
+12/01/2022,SO1281,Riverside Market,Spring Water 24pk,Crestline,Personal Care,19,39.9,45.49,24.77,828.36,0.0,758.1,DE
+12/01/2022,SO1282,Summit Foods,Trail Mix,Vanta,Personal Care,98,40.54,238.38,39.43,4250.73,0.0,3972.92,MA
+12/01/2022,SO1283,Birch & Co,Cola 12pk,Northwind,Household,42,34.6,87.19,35.35,1575.74,0.0,1453.2,NJ
+12/01/2022,SO1284,Maple Grocers,Hand Lotion,Vanta,Beverages,31,34.25,63.7,1.68,1127.13,0.0,1061.75,CT
+12/01/2022,SO1285,Oakwood Retail,Cola 12pk,Aurora,Personal Care,90,32.99,178.15,24.7,3171.95,0.0,2969.1,MA
+12/01/2022,SO1286,Lakeside Provisions,Dish Soap,Vanta,Beverages,78,17.37,81.29,41.06,1477.21,0.0,1354.86,CT
+12/01/2022,SO1287,Oakwood Retail,Trail Mix,Aurora,Personal Care,35,18.91,39.71,22.85,724.41,0.0,661.85,MD
+12/01/2022,SO1288,Oakwood Retail,Damaged,Vanta,Beverages,8,9.3,0.0,0.0,0.0,0.0,221.94,CT
+01/01/2023,SO1289,Willow Distributors,Hand Lotion,Vanta,Beverages,49,33.24,114.34,32.06,2052.05,0.0,1905.65,CT
+01/01/2023,SO1290,Oakwood Retail,Trail Mix,Crestline,Household,119,26.75,223.46,35.81,3983.67,0.0,3724.4,MD
+01/01/2023,SO1291,Riverside Market,Cola 12pk,Northwind,Beverages,31,17.52,38.13,9.08,682.66,0.0,635.45,MA
+01/01/2023,SO1292,Oakwood Retail,Dish Soap,Northwind,Snacks,78,17.39,95.22,11.37,1693.6,0.0,1587.01,NY
+01/01/2023,SO1293,Summit Foods,Dish Soap,Aurora,Snacks,27,22.4,42.46,47.36,797.44,0.0,707.62,NY
+01/01/2023,SO1294,Riverside Market,Trail Mix,Northwind,Personal Care,16,41.3,46.39,6.96,826.49,0.0,773.14,CT
+01/01/2023,SO1295,Willow Distributors,Cola 12pk,Vanta,Household,86,28.68,173.15,0.91,3059.84,0.0,2885.78,MD
+01/01/2023,SO1296,Summit Foods,Hand Lotion,Crestline,Beverages,64,27.9,125.35,5.11,2219.61,0.0,2089.15,CT
+01/01/2023,SO1297,Pine Street Deli,Dish Soap,Vanta,Beverages,116,32.26,262.7,46.12,4687.15,0.0,4378.33,PA
+01/01/2023,SO1298,Pine Street Deli,Hand Lotion,Aurora,Personal Care,76,30.36,161.98,38.56,2900.15,0.0,2699.61,NJ
+01/01/2023,SO1299,Oakwood Retail,Dish Soap,Aurora,Beverages,35,28.48,69.98,21.21,1257.45,0.0,1166.26,DE
+01/01/2023,SO1300,Willow Distributors,Cola 12pk,Aurora,Personal Care,33,7.38,17.1,42.02,344.06,0.0,284.94,CT
+01/01/2023,SO1301,Cedar Mart,Cola 12pk,Aurora,Snacks,15,21.94,23.1,5.66,413.81,0.0,385.05,PA
+01/01/2023,SO1302,Birch & Co,Trail Mix,Vanta,Beverages,25,9.95,17.46,9.32,317.82,0.0,291.04,CT
+01/01/2023,SO1303,Oakwood Retail,Spring Water 24pk,Aurora,Snacks,91,41.68,266.26,43.49,4747.42,0.0,4437.67,NJ
+01/01/2023,SO1304,Cedar Mart,Hand Lotion,Northwind,Snacks,59,12.55,51.98,30.39,948.7,0.0,866.33,PA
+01/01/2023,SO1305,Pine Street Deli,Hand Lotion,Crestline,Personal Care,51,5.3,18.97,16.76,351.98,0.0,316.25,MD
+01/01/2023,SO1306,Willow Distributors,Spring Water 24pk,Crestline,Household,56,36.09,141.88,30.19,2536.69,0.0,2364.62,NJ
+01/01/2023,SO1307,Riverside Market,Cola 12pk,Crestline,Personal Care,39,19.72,53.99,26.87,980.68,0.0,899.82,PA
+01/01/2023,SO1308,Willow Distributors,Trail Mix,Crestline,Household,79,41.76,231.59,23.29,4114.76,0.0,3859.88,NJ
+01/01/2023,SO1309,Oakwood Retail,Dish Soap,Northwind,Personal Care,95,33.98,226.61,22.61,4026.1,0.0,3776.88,NY
+01/01/2023,SO1310,Pine Street Deli,Cola 12pk,Aurora,Personal Care,47,4.38,14.45,45.64,300.95,0.0,240.86,DE
+01/01/2023,SO1311,Summit Foods,Cola 12pk,Crestline,Beverages,58,10.41,42.39,24.92,773.73,0.0,706.42,DE
+01/01/2023,SO1312,Birch & Co,Dish Soap,Vanta,Beverages,74,4.42,22.96,15.57,421.21,0.0,382.68,PA
+01/01/2023,SO1313,Summit Foods,Trail Mix,Crestline,Household,33,27.38,63.43,31.61,1152.18,0.0,1057.14,MD
+01/01/2023,SO1314,Harbor Wholesale,Trail Mix,Vanta,Snacks,32,11.93,26.8,25.76,499.22,0.0,446.66,NY
+01/01/2023,SO1315,Pine Street Deli,Spring Water 24pk,Aurora,Beverages,85,43.36,258.73,7.43,4578.31,0.0,4312.15,DE
+01/01/2023,SO1316,Willow Distributors,Trail Mix,Crestline,Personal Care,90,6.58,41.57,49.84,784.28,0.0,692.87,NY
+01/01/2023,SO1317,Summit Foods,Cola 12pk,Northwind,Snacks,53,15.58,57.97,15.5,1039.59,0.0,966.12,DE
+01/01/2023,SO1318,Cedar Mart,Volume Discount,Aurora,Personal Care,1,-96.82,0.0,0.0,0.0,163.96,-82.89,PA
+01/01/2023,SO1319,Harbor Wholesale,Lost,Crestline,Personal Care,1,4.54,0.0,0.0,0.0,0.0,404.05,CT
+02/01/2023,SO1320,Pine Street Deli,Hand Lotion,Northwind,Snacks,23,5.76,10.06,38.78,216.45,0.0,167.61,PA
+02/01/2023,SO1321,Cedar Mart,Dish Soap,Vanta,Personal Care,51,25.16,97.4,26.72,1747.53,0.0,1623.41,MA
+02/01/2023,SO1322,Summit Foods,Trail Mix,Vanta,Snacks,117,19.83,176.12,27.98,3139.43,0.0,2935.33,MD
+02/01/2023,SO1323,Maple Grocers,Hand Lotion,Crestline,Household,67,7.33,37.28,16.72,675.34,0.0,621.34,MA
+02/01/2023,SO1324,Birch & Co,Spring Water 24pk,Aurora,Household,59,42.74,191.42,18.67,3400.41,0.0,3190.32,NJ
+02/01/2023,SO1325,Pine Street Deli,Hand Lotion,Northwind,Snacks,78,40.69,240.92,26.33,4282.66,0.0,4015.41,MD
+02/01/2023,SO1326,Riverside Market,Trail Mix,Vanta,Personal Care,101,4.07,31.2,7.81,559.08,0.0,520.07,PA
+02/01/2023,SO1327,Lakeside Provisions,Spring Water 24pk,Aurora,Personal Care,54,39.41,161.55,20.4,2874.4,0.0,2692.45,MA
+02/01/2023,SO1328,Harbor Wholesale,Hand Lotion,Crestline,Beverages,61,12.32,57.05,11.55,1019.4,0.0,950.8,PA
+02/01/2023,SO1329,Maple Grocers,Dish Soap,Northwind,Beverages,63,24.23,115.88,29.75,2076.89,0.0,1931.26,MD
+02/01/2023,SO1330,Summit Foods,Trail Mix,Crestline,Beverages,115,26.92,235.0,44.37,4196.07,0.0,3916.7,PA
+02/01/2023,SO1331,Summit Foods,Hand Lotion,Vanta,Personal Care,96,13.0,94.74,4.97,1678.64,0.0,1578.93,MA
+02/01/2023,SO1332,Riverside Market,Spring Water 24pk,Aurora,Household,100,44.53,338.03,30.16,6001.98,0.0,5633.79,NY
+02/01/2023,SO1333,Birch & Co,Cola 12pk,Northwind,Personal Care,50,37.87,143.74,19.86,2559.19,0.0,2395.59,NJ
+02/01/2023,SO1334,Harbor Wholesale,Dish Soap,Crestline,Beverages,41,8.93,27.79,20.32,511.33,0.0,463.22,NJ
+02/01/2023,SO1335,Lakeside Provisions,Cola 12pk,Northwind,Personal Care,59,40.65,182.06,0.65,3217.02,0.0,3034.31,NJ
+02/01/2023,SO1336,Cedar Mart,Cola 12pk,Aurora,Beverages,11,33.91,28.32,42.41,542.65,0.0,471.92,DE
+02/01/2023,SO1337,Summit Foods,Dish Soap,Northwind,Personal Care,116,10.62,93.51,29.15,1681.24,0.0,1558.58,NJ
+02/01/2023,SO1338,Harbor Wholesale,Cola 12pk,Crestline,Personal Care,64,32.57,158.23,45.53,2840.97,0.0,2637.21,NY
+02/01/2023,SO1339,Birch & Co,Dish Soap,Aurora,Beverages,73,17.36,96.2,12.97,1712.49,0.0,1603.32,MA
+02/01/2023,SO1340,Lakeside Provisions,Hand Lotion,Aurora,Beverages,6,18.25,8.31,1.71,148.56,0.0,138.54,DE
+02/01/2023,SO1341,Oakwood Retail,Dish Soap,Vanta,Beverages,24,29.21,53.22,20.47,960.62,0.0,886.93,PA
+02/01/2023,SO1342,Oakwood Retail,Trail Mix,Aurora,Beverages,98,18.24,135.69,43.05,2440.25,0.0,2261.51,MD
+02/01/2023,SO1343,Summit Foods,Spring Water 24pk,Crestline,Household,103,42.84,334.95,38.18,5955.7,0.0,5582.57,MA
+02/01/2023,SO1344,Summit Foods,Hand Lotion,Crestline,Personal Care,28,7.8,16.58,28.29,321.18,0.0,276.31,DE
+02/01/2023,SO1345,Summit Foods,Damaged,Aurora,Personal Care,1,23.36,0.0,0.0,0.0,0.0,434.34,NJ
+03/01/2023,SO1346,Harbor Wholesale,Spring Water 24pk,Crestline,Snacks,44,32.35,111.03,20.13,1981.58,0.0,1850.42,NJ
+03/01/2023,SO1347,Pine Street Deli,Cola 12pk,Crestline,Personal Care,77,8.85,53.15,41.75,980.78,0.0,885.88,MD
+03/01/2023,SO1348,Pine Street Deli,Spring Water 24pk,Vanta,Snacks,8,8.56,5.34,45.03,139.39,0.0,89.02,PA
+03/01/2023,SO1349,Maple Grocers,Dish Soap,Crestline,Household,102,14.44,114.88,0.92,2030.54,0.0,1914.74,NJ
+03/01/2023,SO1350,Lakeside Provisions,Hand Lotion,Crestline,Personal Care,22,25.25,43.33,40.75,806.23,0.0,722.15,CT
+03/01/2023,SO1351,Summit Foods,Hand Lotion,Crestline,Personal Care,45,14.51,50.93,27.71,927.48,0.0,848.84,PA
+03/01/2023,SO1352,Riverside Market,Hand Lotion,Crestline,Beverages,29,23.89,54.04,36.01,990.7,0.0,900.65,CT
+03/01/2023,SO1353,Birch & Co,Dish Soap,Northwind,Household,110,8.88,76.19,13.18,1359.21,0.0,1269.84,NJ
+03/01/2023,SO1354,Oakwood Retail,Dish Soap,Aurora,Household,35,39.7,108.38,29.87,1944.6,0.0,1806.35,CT
+03/01/2023,SO1355,Summit Foods,Hand Lotion,Vanta,Household,16,29.59,36.93,24.71,677.11,0.0,615.47,CT
+03/01/2023,SO1356,Oakwood Retail,Cola 12pk,Aurora,Personal Care,14,41.41,45.22,20.94,819.82,0.0,753.66,PA
+03/01/2023,SO1357,Riverside Market,Hand Lotion,Aurora,Household,96,35.38,264.93,21.1,4701.45,0.0,4415.42,MA
+03/01/2023,SO1358,Maple Grocers,Trail Mix,Northwind,Personal Care,6,9.98,4.67,36.9,119.41,0.0,77.84,NJ
+03/01/2023,SO1359,Riverside Market,Trail Mix,Northwind,Household,55,6.79,29.13,38.55,553.16,0.0,485.48,PA
+03/01/2023,SO1360,Willow Distributors,Spring Water 24pk,Vanta,Snacks,33,19.35,49.81,14.43,894.36,0.0,830.12,DE
+03/01/2023,SO1361,Oakwood Retail,Dish Soap,Vanta,Personal Care,40,33.2,103.58,14.86,1844.84,0.0,1726.4,MD
+03/01/2023,SO1362,Willow Distributors,Trail Mix,Aurora,Household,103,42.87,344.42,19.83,6104.54,0.0,5740.29,CT
+03/01/2023,SO1363,Pine Street Deli,Trail Mix,Crestline,Beverages,28,42.35,92.49,36.63,1670.66,0.0,1541.54,NJ
+03/01/2023,SO1364,Cedar Mart,Cola 12pk,Northwind,Personal Care,37,14.34,41.38,26.99,758.12,0.0,689.75,MA
+03/01/2023,SO1365,Pine Street Deli,Dish Soap,Aurora,Personal Care,87,27.99,189.94,2.57,3358.18,0.0,3165.67,NY
+03/01/2023,SO1366,Cedar Mart,Trail Mix,Crestline,Beverages,66,43.12,221.98,7.73,3929.41,0.0,3699.7,NY
+03/01/2023,SO1367,Cedar Mart,Trail Mix,Aurora,Personal Care,77,35.38,212.49,5.33,3759.36,0.0,3541.54,NJ
+03/01/2023,SO1368,Oakwood Retail,Spring Water 24pk,Crestline,Household,77,17.76,106.67,20.64,1905.09,0.0,1777.78,PA
+03/01/2023,SO1369,Summit Foods,Dish Soap,Northwind,Snacks,65,31.91,161.78,21.74,2879.92,0.0,2696.4,NJ
+03/01/2023,SO1370,Summit Foods,Trail Mix,Northwind,Personal Care,43,6.19,20.76,3.89,370.67,0.0,346.02,NJ
+03/01/2023,SO1371,Birch & Co,Cola 12pk,Crestline,Household,112,32.18,281.12,13.61,4980.14,0.0,4685.41,CT
+03/01/2023,SO1372,Birch & Co,Damaged,Aurora,Beverages,1,8.75,0.0,0.0,0.0,0.0,762.68,MA
+04/01/2023,SO1373,Cedar Mart,Cola 12pk,Vanta,Personal Care,117,10.78,95.74,27.1,1718.54,0.0,1595.7,MD
+04/01/2023,SO1374,Willow Distributors,Spring Water 24pk,Vanta,Snacks,92,34.85,243.38,31.95,4331.71,0.0,4056.38,PA
+04/01/2023,SO1375,Cedar Mart,Hand Lotion,Aurora,Household,85,30.67,197.89,34.61,3530.73,0.0,3298.23,NY
+04/01/2023,SO1376,Summit Foods,Hand Lotion,Northwind,Beverages,74,44.18,248.17,45.17,4429.57,0.0,4136.23,MD
+04/01/2023,SO1377,Birch & Co,Trail Mix,Aurora,Household,16,12.29,14.93,49.38,313.09,0.0,248.78,NY
+04/01/2023,SO1378,Oakwood Retail,Trail Mix,Northwind,Household,113,31.14,267.11,2.21,4721.21,0.0,4451.89,MA
+04/01/2023,SO1379,Riverside Market,Dish Soap,Crestline,Snacks,20,41.86,63.55,9.03,1131.78,0.0,1059.2,DE
+04/01/2023,SO1380,Summit Foods,Dish Soap,Crestline,Beverages,89,22.87,154.51,15.64,2745.31,0.0,2575.16,MA
+04/01/2023,SO1381,Willow Distributors,Cola 12pk,Northwind,Snacks,83,32.29,203.44,14.87,3609.05,0.0,3390.74,NY
+04/01/2023,SO1382,Willow Distributors,Spring Water 24pk,Crestline,Beverages,52,7.84,30.95,21.09,567.82,0.0,515.78,NJ
+04/01/2023,SO1383,Willow Distributors,Dish Soap,Aurora,Snacks,97,22.92,168.77,43.1,3024.64,0.0,2812.77,MD
+04/01/2023,SO1384,Willow Distributors,Spring Water 24pk,Vanta,Personal Care,43,22.12,72.2,26.12,1301.7,0.0,1203.38,DE
+04/01/2023,SO1385,Pine Street Deli,Hand Lotion,Crestline,Snacks,107,4.55,36.96,29.81,682.72,0.0,615.95,MD
+04/01/2023,SO1386,Pine Street Deli,Hand Lotion,Vanta,Beverages,103,26.55,207.59,24.05,3691.43,0.0,3459.79,DE
+04/01/2023,SO1387,Summit Foods,Hand Lotion,Aurora,Personal Care,7,32.24,17.13,16.99,319.64,0.0,285.52,CT
+04/01/2023,SO1388,Harbor Wholesale,Dish Soap,Vanta,Snacks,59,19.99,89.53,28.62,1610.3,0.0,1492.15,PA
+04/01/2023,SO1389,Oakwood Retail,Hand Lotion,Crestline,Snacks,117,25.61,227.45,33.08,4051.44,0.0,3790.91,MD
+04/01/2023,SO1390,Birch & Co,Cola 12pk,Crestline,Beverages,17,29.29,37.8,44.3,712.06,0.0,629.96,PA
+04/01/2023,SO1391,Cedar Mart,Spring Water 24pk,Northwind,Household,46,39.82,139.05,20.88,2477.36,0.0,2317.43,CT
+04/01/2023,SO1392,Summit Foods,Spring Water 24pk,Northwind,Beverages,103,39.54,309.15,1.06,5462.75,0.0,5152.54,PA
+04/01/2023,SO1393,Willow Distributors,Hand Lotion,Vanta,Snacks,17,25.22,32.55,46.95,621.93,0.0,542.43,MD
+04/01/2023,SO1394,Oakwood Retail,Cola 12pk,Northwind,Household,103,5.94,46.44,0.47,820.96,0.0,774.05,NY
+04/01/2023,SO1395,Cedar Mart,Cola 12pk,Northwind,Personal Care,33,35.22,88.23,20.1,1578.78,0.0,1470.45,CT
+04/01/2023,SO1396,Cedar Mart,Spring Water 24pk,Crestline,Beverages,112,29.36,249.62,43.68,4453.57,0.0,4160.27,CT
+05/01/2023,SO1397,Harbor Wholesale,Trail Mix,Vanta,Household,107,24.95,187.41,36.61,3347.51,0.0,3123.49,NJ
+05/01/2023,SO1398,Pine Street Deli,Hand Lotion,Aurora,Personal Care,53,7.64,28.43,17.73,519.92,0.0,473.76,PA
+05/01/2023,SO1399,Riverside Market,Hand Lotion,Aurora,Snacks,34,38.82,92.66,35.78,1672.7,0.0,1544.26,PA
+05/01/2023,SO1400,Lakeside Provisions,Dish Soap,Crestline,Beverages,41,4.77,13.73,0.89,243.44,0.0,228.82,CT
+05/01/2023,SO1401,Willow Distributors,Cola 12pk,Aurora,Snacks,114,4.89,39.13,5.47,696.83,0.0,652.23,PA
+05/01/2023,SO1402,Riverside Market,Hand Lotion,Crestline,Personal Care,92,8.23,53.15,47.82,986.85,0.0,885.88,MD
+05/01/2023,SO1403,Willow Distributors,Cola 12pk,Crestline,Beverages,41,36.03,103.7,4.47,1836.53,0.0,1728.36,NY
+05/01/2023,SO1404,Lakeside Provisions,Dish Soap,Aurora,Household,74,44.26,229.92,44.21,4106.16,0.0,3832.03,MA
+05/01/2023,SO1405,Summit Foods,Trail Mix,Crestline,Personal Care,92,22.63,146.15,30.67,2612.71,0.0,2435.89,MA
+05/01/2023,SO1406,Maple Grocers,Spring Water 24pk,Aurora,Snacks,29,34.22,69.66,3.25,1233.99,0.0,1161.08,DE
+05/01/2023,SO1407,Cedar Mart,Cola 12pk,Crestline,Personal Care,76,42.59,227.23,32.48,4046.81,0.0,3787.1,NY
+05/01/2023,SO1408,Oakwood Retail,Cola 12pk,Northwind,Household,119,24.53,204.92,11.53,3631.76,0.0,3415.31,NY
+05/01/2023,SO1409,Willow Distributors,Dish Soap,Vanta,Household,102,19.13,136.98,1.84,2421.79,0.0,2282.97,MA
+05/01/2023,SO1410,Willow Distributors,Dish Soap,Vanta,Personal Care,7,37.7,18.53,40.04,367.33,0.0,308.76,MD
+05/01/2023,SO1411,Oakwood Retail,Dish Soap,Aurora,Beverages,58,43.7,177.93,44.19,3187.6,0.0,2965.48,CT
+05/01/2023,SO1412,Maple Grocers,Cola 12pk,Crestline,Personal Care,103,28.09,203.11,26.25,3614.49,0.0,3385.13,PA
+05/01/2023,SO1413,Maple Grocers,Cola 12pk,Northwind,Personal Care,110,24.64,190.27,24.56,3386.0,0.0,3171.17,NY
+05/01/2023,SO1414,Summit Foods,Trail Mix,Vanta,Beverages,21,9.46,13.95,40.79,287.17,0.0,232.43,MA
+05/01/2023,SO1415,Harbor Wholesale,Spring Water 24pk,Aurora,Personal Care,106,29.16,216.99,37.39,3870.8,0.0,3616.42,PA
+05/01/2023,SO1416,Summit Foods,Hand Lotion,Vanta,Snacks,93,27.9,182.15,29.0,3246.95,0.0,3035.8,CT
+05/01/2023,SO1417,Maple Grocers,Trail Mix,Vanta,Snacks,102,22.21,159.03,19.56,2829.13,0.0,2650.54,MA
+05/01/2023,SO1418,Cedar Mart,Cola 12pk,Crestline,Personal Care,96,23.02,155.14,2.22,2742.97,0.0,2585.61,PA
+05/01/2023,SO1419,Cedar Mart,Cola 12pk,Northwind,Household,102,39.21,280.76,40.48,5000.56,0.0,4679.32,MA
+05/01/2023,SO1420,Pine Street Deli,Cola 12pk,Crestline,Personal Care,44,42.13,130.13,36.76,2335.74,0.0,2168.85,NY
+05/01/2023,SO1421,Pine Street Deli,Cola 12pk,Northwind,Household,102,20.16,144.35,18.63,2568.87,0.0,2405.89,NY
+05/01/2023,SO1422,Pine Street Deli,Trail Mix,Crestline,Personal Care,76,32.22,171.9,2.44,3039.34,0.0,2865.0,PA
+06/01/2023,SO1423,Oakwood Retail,Cola 12pk,Vanta,Household,73,44.64,203.34,3.08,3595.49,0.0,3389.07,PA
+06/01/2023,SO1424,Willow Distributors,Cola 12pk,Aurora,Personal Care,49,23.18,70.88,29.62,1281.75,0.0,1181.25,CT
+06/01/2023,SO1425,Summit Foods,Dish Soap,Crestline,Beverages,62,27.0,104.46,33.11,1878.53,0.0,1740.96,PA
+06/01/2023,SO1426,Oakwood Retail,Hand Lotion,Aurora,Household,44,26.76,73.47,13.35,1311.36,0.0,1224.54,DE
+06/01/2023,SO1427,Harbor Wholesale,Trail Mix,Vanta,Household,10,24.89,15.53,43.41,317.8,0.0,258.86,MA
+06/01/2023,SO1428,Summit Foods,Spring Water 24pk,Crestline,Snacks,96,38.72,231.95,43.36,4141.11,0.0,3865.8,NY
+06/01/2023,SO1429,Birch & Co,Trail Mix,Aurora,Snacks,45,17.03,47.82,11.93,856.75,0.0,797.0,NJ
+06/01/2023,SO1430,Lakeside Provisions,Dish Soap,Aurora,Personal Care,57,31.57,112.29,30.93,2014.69,0.0,1871.47,NJ
+06/01/2023,SO1431,Maple Grocers,Cola 12pk,Northwind,Snacks,42,10.95,28.7,44.08,551.08,0.0,478.3,CT
+06/01/2023,SO1432,Cedar Mart,Trail Mix,Vanta,Household,49,39.62,121.14,1.46,2141.64,0.0,2019.04,PA
+06/01/2023,SO1433,Maple Grocers,Spring Water 24pk,Crestline,Snacks,27,3.22,5.43,41.0,136.85,0.0,90.42,MA
+06/01/2023,SO1434,Summit Foods,Hand Lotion,Aurora,Snacks,57,34.23,121.75,8.04,2158.94,0.0,2029.15,NJ
+06/01/2023,SO1435,Cedar Mart,Trail Mix,Vanta,Household,104,26.36,171.07,37.83,3060.0,0.0,2851.1,NJ
+06/01/2023,SO1436,Pine Street Deli,Cola 12pk,Aurora,Beverages,16,3.27,3.26,14.35,72.02,0.0,54.41,PA
+06/01/2023,SO1437,Cedar Mart,Cola 12pk,Crestline,Personal Care,50,16.71,52.14,27.99,949.05,0.0,868.92,NY
+06/01/2023,SO1438,Pine Street Deli,Trail Mix,Vanta,Beverages,108,13.91,93.74,31.7,1687.81,0.0,1562.37,PA
+06/01/2023,SO1439,Cedar Mart,Dish Soap,Northwind,Snacks,92,37.38,214.59,6.42,3797.53,0.0,3576.52,NJ
+06/01/2023,SO1440,Pine Street Deli,Cola 12pk,Crestline,Snacks,87,34.96,189.79,27.06,3380.03,0.0,3163.18,NY
+06/01/2023,SO1441,Lakeside Provisions,Cola 12pk,Vanta,Household,100,38.29,238.93,19.61,4240.7,0.0,3982.16,NJ
+06/01/2023,SO1442,Riverside Market,Trail Mix,Vanta,Snacks,83,42.15,218.3,5.13,3861.82,0.0,3638.39,CT
+06/01/2023,SO1443,Harbor Wholesale,Spring Water 24pk,Crestline,Household,72,10.3,46.28,38.54,856.08,0.0,771.26,CT
+06/01/2023,SO1444,Cedar Mart,Dish Soap,Northwind,Household,72,15.64,70.27,35.41,1276.8,0.0,1171.12,PA
+06/01/2023,SO1445,Pine Street Deli,Dish Soap,Aurora,Snacks,26,32.76,53.15,23.68,962.66,0.0,885.83,NJ
+06/01/2023,SO1446,Cedar Mart,Dish Soap,Aurora,Snacks,26,29.08,47.18,2.29,835.79,0.0,786.32,CT
+06/01/2023,SO1447,Riverside Market,Dish Soap,Crestline,Household,54,44.59,150.25,33.8,2688.22,0.0,2504.17,MA
+06/01/2023,SO1448,Harbor Wholesale,Trail Mix,Northwind,Personal Care,80,34.49,172.17,6.5,3048.24,0.0,2869.57,NY
+06/01/2023,SO1449,Willow Distributors,Dish Soap,Vanta,Personal Care,80,4.03,20.12,1.11,356.53,0.0,335.3,DE
+06/01/2023,SO1450,Birch & Co,Trail Mix,Vanta,Snacks,10,18.62,11.62,40.94,246.21,0.0,193.65,DE
+06/01/2023,SO1451,Birch & Co,Hand Lotion,Aurora,Household,79,31.7,156.27,22.3,2783.04,0.0,2604.47,NJ
+06/01/2023,SO1452,Willow Distributors,Volume Discount,Aurora,Beverages,1,-199.48,0.0,0.0,0.0,96.71,-101.25,MD
+06/01/2023,SO1453,Birch & Co,Damaged,Northwind,Snacks,7,37.69,0.0,0.0,0.0,0.0,273.78,DE
+07/01/2023,SO1454,Riverside Market,Trail Mix,Vanta,Personal Care,51,31.58,87.94,32.73,1586.3,0.0,1465.63,NJ
+07/01/2023,SO1455,Maple Grocers,Hand Lotion,Vanta,Snacks,31,39.46,66.79,48.16,1228.12,0.0,1113.17,MA
+07/01/2023,SO1456,Cedar Mart,Cola 12pk,Vanta,Beverages,60,21.16,69.32,47.18,1271.84,0.0,1155.34,MA
+07/01/2023,SO1457,Pine Street Deli,Spring Water 24pk,Vanta,Personal Care,84,39.01,178.92,48.23,3209.07,0.0,2981.92,PA
+07/01/2023,SO1458,Harbor Wholesale,Cola 12pk,Aurora,Beverages,23,14.52,18.23,49.2,371.33,0.0,303.9,NJ
+07/01/2023,SO1459,Oakwood Retail,Spring Water 24pk,Vanta,Beverages,5,16.47,4.5,36.22,115.66,0.0,74.94,NJ
+07/01/2023,SO1460,Maple Grocers,Dish Soap,Vanta,Personal Care,38,11.95,24.79,1.56,439.58,0.0,413.23,NY
+07/01/2023,SO1461,Lakeside Provisions,Dish Soap,Northwind,Personal Care,29,33.03,52.3,28.14,952.1,0.0,871.66,CT
+07/01/2023,SO1462,Lakeside Provisions,Spring Water 24pk,Vanta,Snacks,112,22.87,139.85,48.41,2519.17,0.0,2330.91,DE
+07/01/2023,SO1463,Riverside Market,Trail Mix,Crestline,Personal Care,50,11.56,31.56,4.56,562.1,0.0,525.98,MA
+07/01/2023,SO1464,Harbor Wholesale,Spring Water 24pk,Northwind,Beverages,12,35.38,23.18,42.24,451.77,0.0,386.35,PA
+07/01/2023,SO1465,Birch & Co,Hand Lotion,Vanta,Personal Care,75,29.3,119.98,6.56,2126.26,0.0,1999.72,MD
+07/01/2023,SO1466,Harbor Wholesale,Hand Lotion,Northwind,Household,57,41.3,128.53,48.38,2319.14,0.0,2142.23,NY
+07/01/2023,SO1467,Harbor Wholesale,Spring Water 24pk,Crestline,Beverages,24,36.45,47.76,24.08,867.91,0.0,796.07,MD
+07/01/2023,SO1468,Willow Distributors,Spring Water 24pk,Vanta,Snacks,82,28.13,125.94,30.37,2255.37,0.0,2099.06,NY
+07/01/2023,SO1469,Riverside Market,Cola 12pk,Aurora,Beverages,88,21.07,101.24,10.03,1798.56,0.0,1687.29,CT
+07/01/2023,SO1470,Harbor Wholesale,Spring Water 24pk,Aurora,Personal Care,64,5.7,19.92,29.1,380.99,0.0,331.97,CT
+07/01/2023,SO1471,Birch & Co,Trail Mix,Northwind,Beverages,6,36.5,11.96,15.52,226.77,0.0,199.29,NY
+07/01/2023,SO1472,Harbor Wholesale,Cola 12pk,Crestline,Household,81,9.28,41.04,23.23,748.3,0.0,684.03,MA
+07/01/2023,SO1473,Willow Distributors,Lost,Northwind,Household,6,15.25,0.0,0.0,0.0,0.0,571.24,PA
+08/01/2023,SO1474,Lakeside Provisions,Dish Soap,Northwind,Household,106,41.13,213.15,36.21,3801.85,0.0,3552.49,NJ
+08/01/2023,SO1475,Lakeside Provisions,Cola 12pk,Northwind,Personal Care,55,7.41,19.93,12.1,364.12,0.0,332.09,NJ
+08/01/2023,SO1476,Lakeside Provisions,Cola 12pk,Crestline,Household,50,8.98,21.95,24.94,412.75,0.0,365.86,DE
+08/01/2023,SO1477,Lakeside Provisions,Trail Mix,Vanta,Household,90,11.83,52.05,17.3,936.9,0.0,867.55,CT
+08/01/2023,SO1478,Birch & Co,Hand Lotion,Northwind,Snacks,44,3.41,7.34,16.32,145.92,0.0,122.26,MD
+08/01/2023,SO1479,Pine Street Deli,Trail Mix,Northwind,Personal Care,6,25.44,7.46,44.13,175.97,0.0,124.38,NJ
+08/01/2023,SO1480,Lakeside Provisions,Cola 12pk,Vanta,Snacks,34,4.39,7.3,3.93,132.85,0.0,121.62,CT
+08/01/2023,SO1481,Pine Street Deli,Trail Mix,Northwind,Household,26,16.53,21.01,48.87,420.08,0.0,350.2,DE
+08/01/2023,SO1482,Cedar Mart,Dish Soap,Aurora,Beverages,94,31.96,146.88,40.03,2634.87,0.0,2447.96,MA
+08/01/2023,SO1483,Maple Grocers,Dish Soap,Northwind,Personal Care,102,4.73,23.59,33.52,450.23,0.0,393.12,DE
+08/01/2023,SO1484,Riverside Market,Trail Mix,Aurora,Snacks,108,29.73,156.98,35.32,2808.6,0.0,2616.3,CT
+08/01/2023,SO1485,Oakwood Retail,Dish Soap,Northwind,Beverages,10,27.98,13.68,30.83,272.5,0.0,227.99,NY
+08/01/2023,SO1486,Riverside Market,Hand Lotion,Northwind,Snacks,99,25.73,124.54,35.45,2235.59,0.0,2075.6,DE
+08/01/2023,SO1487,Lakeside Provisions,Trail Mix,Northwind,Household,12,42.79,25.1,31.27,474.77,0.0,418.4,MD
+08/01/2023,SO1488,Lakeside Provisions,Hand Lotion,Crestline,Household,88,17.26,74.26,40.74,1352.63,0.0,1237.63,PA
+08/01/2023,SO1489,Oakwood Retail,Cola 12pk,Crestline,Personal Care,11,30.75,16.54,27.65,319.81,0.0,275.62,CT
+08/01/2023,SO1490,Cedar Mart,Dish Soap,Aurora,Snacks,10,37.33,18.25,22.62,345.05,0.0,304.18,PA
+08/01/2023,SO1491,Lakeside Provisions,Spring Water 24pk,Crestline,Snacks,7,4.71,1.61,8.2,36.68,0.0,26.87,DE
+08/01/2023,SO1492,Summit Foods,Volume Discount,Aurora,Household,1,-150.47,0.0,0.0,0.0,126.79,-137.05,MA
+08/01/2023,SO1493,Willow Distributors,Lost,Crestline,Snacks,3,12.21,0.0,0.0,0.0,0.0,781.9,CT
+09/01/2023,SO1494,Harbor Wholesale,Hand Lotion,Crestline,Snacks,49,10.65,24.42,39.48,470.94,0.0,407.04,CT
+09/01/2023,SO1495,Pine Street Deli,Hand Lotion,Crestline,Personal Care,59,4.83,13.34,8.08,243.7,0.0,222.28,CT
+09/01/2023,SO1496,Oakwood Retail,Trail Mix,Northwind,Snacks,74,33.21,115.01,11.42,2043.31,0.0,1916.88,DE
+09/01/2023,SO1497,Summit Foods,Cola 12pk,Vanta,Beverages,100,25.78,120.65,24.66,2156.15,0.0,2010.84,MA
+09/01/2023,SO1498,Riverside Market,Spring Water 24pk,Aurora,Beverages,32,11.38,17.04,34.01,335.09,0.0,284.04,CT
+09/01/2023,SO1499,Harbor Wholesale,Spring Water 24pk,Northwind,Snacks,97,20.57,93.38,10.18,1659.89,0.0,1556.33,NJ
+09/01/2023,SO1500,Birch & Co,Hand Lotion,Northwind,Household,11,22.43,11.55,43.41,247.41,0.0,192.45,NJ
+09/01/2023,SO1501,Cedar Mart,Spring Water 24pk,Vanta,Beverages,35,20.47,33.53,42.31,634.67,0.0,558.83,MA
+09/01/2023,SO1502,Maple Grocers,Spring Water 24pk,Vanta,Household,41,17.53,33.64,18.55,612.8,0.0,560.61,MA
+09/01/2023,SO1503,Maple Grocers,Cola 12pk,Crestline,Personal Care,24,24.2,27.18,27.17,507.37,0.0,453.02,MD
+09/01/2023,SO1504,Riverside Market,Spring Water 24pk,Northwind,Snacks,55,27.3,70.27,21.93,1263.37,0.0,1171.17,NY
+09/01/2023,SO1505,Willow Distributors,Cola 12pk,Northwind,Household,102,23.44,111.89,43.67,2020.45,0.0,1864.89,MD
+09/01/2023,SO1506,Pine Street Deli,Hand Lotion,Crestline,Beverages,38,36.3,64.56,32.75,1173.24,0.0,1075.93,PA
+09/01/2023,SO1507,Cedar Mart,Cola 12pk,Vanta,Snacks,119,27.88,155.27,45.62,2788.71,0.0,2587.82,DE
+09/01/2023,SO1508,Pine Street Deli,Spring Water 24pk,Northwind,Beverages,16,19.12,14.32,23.29,276.23,0.0,238.62,NJ
+09/01/2023,SO1509,Lakeside Provisions,Hand Lotion,Vanta,Personal Care,25,33.79,39.53,6.58,705.01,0.0,658.9,NJ
+09/01/2023,SO1510,Summit Foods,Spring Water 24pk,Aurora,Personal Care,12,20.02,11.24,30.09,228.72,0.0,187.39,MD
+09/01/2023,SO1511,Oakwood Retail,Cola 12pk,Vanta,Beverages,46,12.98,27.94,48.57,542.23,0.0,465.72,MA
+09/01/2023,SO1512,Harbor Wholesale,Trail Mix,Aurora,Personal Care,41,38.88,74.6,24.61,1342.59,0.0,1243.38,PA
+09/01/2023,SO1513,Riverside Market,Dish Soap,Aurora,Beverages,66,7.09,21.9,20.25,407.14,0.0,364.99,NY
+09/01/2023,SO1514,Maple Grocers,Trail Mix,Crestline,Snacks,18,24.62,20.74,17.96,384.36,0.0,345.66,MD
+09/01/2023,SO1515,Lakeside Provisions,Damaged,Crestline,Snacks,9,43.72,0.0,0.0,0.0,0.0,243.6,CT
+10/01/2023,SO1516,Birch & Co,Dish Soap,Vanta,Personal Care,9,16.66,7.33,38.67,168.18,0.0,122.18,MD
+10/01/2023,SO1517,Riverside Market,Cola 12pk,Northwind,Household,60,19.66,57.67,11.85,1030.7,0.0,961.18,NJ
+10/01/2023,SO1518,Lakeside Provisions,Trail Mix,Aurora,Beverages,35,12.91,22.09,3.67,393.94,0.0,368.18,PA
+10/01/2023,SO1519,Oakwood Retail,Spring Water 24pk,Vanta,Household,18,16.9,14.87,22.44,285.18,0.0,247.87,MD
+10/01/2023,SO1520,Cedar Mart,Trail Mix,Vanta,Household,80,37.81,147.88,21.54,2634.13,0.0,2464.71,MA
+10/01/2023,SO1521,Lakeside Provisions,Trail Mix,Vanta,Personal Care,24,27.69,32.49,47.43,621.43,0.0,541.51,NJ
+10/01/2023,SO1522,Harbor Wholesale,Spring Water 24pk,Crestline,Beverages,61,10.02,29.88,8.38,536.3,0.0,498.04,PA
+10/01/2023,SO1523,Lakeside Provisions,Trail Mix,Northwind,Personal Care,111,33.93,184.13,33.19,3286.17,0.0,3068.85,PA
+10/01/2023,SO1524,Riverside Market,Spring Water 24pk,Crestline,Beverages,41,35.84,71.84,35.27,1304.46,0.0,1197.35,PA
+10/01/2023,SO1525,Oakwood Retail,Dish Soap,Vanta,Beverages,60,27.58,80.9,43.41,1472.7,0.0,1348.39,NY
+10/01/2023,SO1526,Summit Foods,Hand Lotion,Aurora,Personal Care,112,25.68,140.62,1.71,2485.92,0.0,2343.59,MA
+10/01/2023,SO1527,Riverside Market,Spring Water 24pk,Vanta,Beverages,82,5.4,21.65,26.56,409.02,0.0,360.81,PA
+10/01/2023,SO1528,Willow Distributors,Cola 12pk,Aurora,Household,24,5.17,6.07,32.0,139.17,0.0,101.1,MD
+10/01/2023,SO1529,Maple Grocers,Dish Soap,Vanta,Personal Care,39,21.99,41.93,46.69,787.43,0.0,698.81,CT
+10/01/2023,SO1530,Birch & Co,Trail Mix,Aurora,Snacks,73,7.34,26.2,29.23,492.03,0.0,436.6,DE
+10/01/2023,SO1531,Summit Foods,Trail Mix,Vanta,Household,16,9.23,7.22,49.33,176.88,0.0,120.33,PA
+10/01/2023,SO1532,Cedar Mart,Trail Mix,Crestline,Beverages,92,31.81,143.08,0.87,2528.58,0.0,2384.63,NY
+10/01/2023,SO1533,Pine Street Deli,Hand Lotion,Vanta,Household,93,29.84,135.68,43.4,2440.34,0.0,2261.26,CT
+10/01/2023,SO1534,Oakwood Retail,Dish Soap,Aurora,Snacks,99,13.68,66.21,26.09,1195.85,0.0,1103.55,DE
+10/01/2023,SO1535,Willow Distributors,Cola 12pk,Vanta,Snacks,27,31.01,40.93,6.98,730.15,0.0,682.24,CT
+10/01/2023,SO1536,Summit Foods,Dish Soap,Aurora,Beverages,49,9.03,21.63,46.99,429.16,0.0,360.54,CT
+10/01/2023,SO1537,Willow Distributors,Hand Lotion,Crestline,Household,12,43.74,25.66,4.7,458.05,0.0,427.69,CT
+10/01/2023,SO1538,Oakwood Retail,Lost,Northwind,Household,5,43.46,0.0,0.0,0.0,0.0,241.48,DE
+11/01/2023,SO1539,Cedar Mart,Dish Soap,Northwind,Snacks,59,44.1,142.06,18.71,2528.5,0.0,2367.73,CT
+11/01/2023,SO1540,Pine Street Deli,Hand Lotion,Crestline,Snacks,34,23.88,44.33,30.89,814.07,0.0,738.85,PA
+11/01/2023,SO1541,Pine Street Deli,Hand Lotion,Vanta,Household,12,39.31,25.76,38.43,493.46,0.0,429.27,NJ
+11/01/2023,SO1542,Willow Distributors,Cola 12pk,Northwind,Snacks,95,42.1,218.37,34.48,3892.39,0.0,3639.54,DE
+11/01/2023,SO1543,Cedar Mart,Trail Mix,Aurora,Personal Care,37,28.23,57.03,47.04,1054.57,0.0,950.5,MD
+11/01/2023,SO1544,Riverside Market,Hand Lotion,Crestline,Personal Care,18,19.54,19.2,32.56,371.83,0.0,320.07,NY
+11/01/2023,SO1545,Harbor Wholesale,Dish Soap,Crestline,Snacks,94,17.64,90.54,7.96,1607.43,0.0,1508.93,DE
+11/01/2023,SO1546,Lakeside Provisions,Spring Water 24pk,Vanta,Personal Care,68,5.02,18.64,48.86,378.14,0.0,310.64,MA
+11/01/2023,SO1547,Willow Distributors,Hand Lotion,Vanta,Personal Care,45,44.72,109.88,37.62,1978.78,0.0,1831.28,MA
+11/01/2023,SO1548,Oakwood Retail,Cola 12pk,Aurora,Beverages,81,15.12,66.87,5.46,1186.83,0.0,1114.5,NJ
+11/01/2023,SO1549,Oakwood Retail,Trail Mix,Northwind,Beverages,102,19.97,111.22,16.35,1981.19,0.0,1853.62,MA
+11/01/2023,SO1550,Oakwood Retail,Hand Lotion,Vanta,Beverages,106,21.4,123.85,45.07,2233.16,0.0,2064.24,NJ
+11/01/2023,SO1551,Pine Street Deli,Trail Mix,Aurora,Snacks,17,36.51,33.89,21.78,620.48,0.0,564.81,CT
+11/01/2023,SO1552,Lakeside Provisions,Hand Lotion,Crestline,Snacks,79,18.78,81.01,14.84,1445.94,0.0,1350.09,PA
+11/01/2023,SO1553,Cedar Mart,Spring Water 24pk,Aurora,Household,75,3.24,13.27,16.23,250.63,0.0,221.13,CT
+11/01/2023,SO1554,Riverside Market,Trail Mix,Aurora,Household,80,28.61,124.97,28.17,2235.95,0.0,2082.81,PA
+11/01/2023,SO1555,Cedar Mart,Trail Mix,Crestline,Personal Care,23,19.32,24.26,22.43,451.06,0.0,404.37,PA
+11/01/2023,SO1556,Riverside Market,Hand Lotion,Vanta,Personal Care,53,25.92,75.01,22.22,1347.35,0.0,1250.12,PA
+11/01/2023,SO1557,Riverside Market,Volume Discount,Crestline,Beverages,1,-125.67,0.0,0.0,0.0,50.32,-135.66,MD
+12/01/2023,SO1558,Maple Grocers,Dish Soap,Aurora,Beverages,7,25.78,11.26,47.57,246.51,0.0,187.68,DE
+12/01/2023,SO1559,Harbor Wholesale,Cola 12pk,Northwind,Snacks,70,23.13,101.03,1.28,1786.17,0.0,1683.86,MA
+12/01/2023,SO1560,Oakwood Retail,Cola 12pk,Northwind,Personal Care,30,7.57,14.17,7.45,257.8,0.0,236.18,CT
+12/01/2023,SO1561,Lakeside Provisions,Trail Mix,Northwind,Snacks,52,27.37,88.81,26.68,1595.66,0.0,1480.17,DE
+12/01/2023,SO1562,Lakeside Provisions,Spring Water 24pk,Vanta,Snacks,19,19.56,23.19,27.47,437.17,0.0,386.51,CT
+12/01/2023,SO1563,Lakeside Provisions,Spring Water 24pk,Vanta,Snacks,50,33.16,103.46,47.78,1875.56,0.0,1724.32,NY
+12/01/2023,SO1564,Riverside Market,Cola 12pk,Crestline,Beverages,113,37.54,264.7,21.54,4697.94,0.0,4411.7,MD
+12/01/2023,SO1565,Oakwood Retail,Dish Soap,Northwind,Snacks,84,30.19,158.24,44.9,2840.54,0.0,2637.4,CT
+12/01/2023,SO1566,Pine Street Deli,Hand Lotion,Aurora,Household,29,30.5,55.19,19.0,994.07,0.0,919.88,MA
+12/01/2023,SO1567,Willow Distributors,Hand Lotion,Vanta,Beverages,72,42.25,189.82,17.58,3371.08,0.0,3163.68,PA
+12/01/2023,SO1568,Cedar Mart,Cola 12pk,Crestline,Snacks,38,9.99,23.69,30.87,449.36,0.0,394.8,MD
+12/01/2023,SO1569,Willow Distributors,Cola 12pk,Crestline,Beverages,56,31.14,108.82,46.48,1968.89,0.0,1813.59,DE
+12/01/2023,SO1570,Oakwood Retail,Spring Water 24pk,Northwind,Snacks,32,25.64,51.2,15.57,920.07,0.0,853.3,PA
+12/01/2023,SO1571,Summit Foods,Dish Soap,Aurora,Snacks,40,33.14,82.72,20.0,1481.34,0.0,1378.62,MA
+12/01/2023,SO1572,Lakeside Provisions,Cola 12pk,Vanta,Snacks,81,20.37,102.96,6.09,1825.02,0.0,1715.97,MA
+12/01/2023,SO1573,Lakeside Provisions,Trail Mix,Vanta,Personal Care,79,8.18,40.32,42.97,755.36,0.0,672.07,DE
+12/01/2023,SO1574,Birch & Co,Trail Mix,Northwind,Personal Care,43,25.06,67.24,35.45,1223.37,0.0,1120.68,PA
+12/01/2023,SO1575,Summit Foods,Dish Soap,Northwind,Personal Care,60,36.32,135.98,9.26,2411.61,0.0,2266.37,MA
+12/01/2023,SO1576,Oakwood Retail,Spring Water 24pk,Aurora,Personal Care,60,43.44,162.64,24.18,2897.48,0.0,2710.66,NY
+12/01/2023,SO1577,Lakeside Provisions,Cola 12pk,Northwind,Personal Care,11,37.26,25.58,18.68,470.51,0.0,426.25,CT
+12/01/2023,SO1578,Lakeside Provisions,Hand Lotion,Vanta,Personal Care,49,29.59,90.47,47.57,1645.95,0.0,1507.91,NY
+12/01/2023,SO1579,Willow Distributors,Spring Water 24pk,Aurora,Snacks,26,37.41,60.69,44.21,1116.47,0.0,1011.57,PA
+12/01/2023,SO1580,Pine Street Deli,Trail Mix,Aurora,Household,13,36.34,29.48,32.33,553.13,0.0,491.32,NY
+12/01/2023,SO1581,Willow Distributors,Hand Lotion,Vanta,Beverages,92,20.26,116.31,41.99,2096.78,0.0,1938.48,MA
+12/01/2023,SO1582,Pine Street Deli,Cola 12pk,Aurora,Household,76,35.34,167.6,27.83,2988.7,0.0,2793.27,MA
+12/01/2023,SO1583,Cedar Mart,Cola 12pk,Aurora,Snacks,95,35.78,212.1,13.74,3760.9,0.0,3535.06,CT
+12/01/2023,SO1584,Riverside Market,Damaged,Crestline,Beverages,9,7.01,0.0,0.0,0.0,0.0,517.89,
+01/01/2024,SO1585,Oakwood Retail,Spring Water 24pk,Crestline,Personal Care,59,27.64,118.88,8.4,2108.65,0.0,1981.37,MD
+01/01/2024,SO1586,Harbor Wholesale,Trail Mix,Aurora,Household,103,39.51,296.67,23.64,5264.79,0.0,4944.48,MD
+01/01/2024,SO1587,Summit Foods,Cola 12pk,Vanta,Snacks,25,7.02,12.79,1.18,227.2,0.0,213.23,MD
+01/01/2024,SO1588,Harbor Wholesale,Spring Water 24pk,Northwind,Household,19,12.67,17.55,10.31,320.35,0.0,292.49,MA
+01/01/2024,SO1589,Willow Distributors,Cola 12pk,Crestline,Snacks,15,12.74,13.93,19.55,265.67,0.0,232.19,PA
+01/01/2024,SO1590,Pine Street Deli,Cola 12pk,Crestline,Household,61,23.86,106.1,49.39,1923.87,0.0,1768.38,MD
+01/01/2024,SO1591,Summit Foods,Hand Lotion,Aurora,Beverages,39,28.08,79.83,33.79,1444.19,0.0,1330.57,PA
+01/01/2024,SO1592,Summit Foods,Trail Mix,Northwind,Snacks,46,20.98,70.35,35.88,1278.8,0.0,1172.57,DE
+01/01/2024,SO1593,Harbor Wholesale,Hand Lotion,Crestline,Personal Care,117,3.66,31.22,17.05,568.56,0.0,520.29,NY
+01/01/2024,SO1594,Lakeside Provisions,Hand Lotion,Crestline,Personal Care,50,7.37,26.86,36.22,510.81,0.0,447.73,NJ
+01/01/2024,SO1595,Lakeside Provisions,Cola 12pk,Aurora,Household,46,41.03,137.59,38.63,2469.39,0.0,2293.17,DE
+01/01/2024,SO1596,Cedar Mart,Hand Lotion,Crestline,Household,40,6.6,19.25,44.71,384.72,0.0,320.76,MA
+01/01/2024,SO1597,Riverside Market,Hand Lotion,Aurora,Household,7,19.85,10.13,18.35,197.3,0.0,168.82,MD
+01/01/2024,SO1598,Birch & Co,Hand Lotion,Aurora,Snacks,74,17.91,96.62,3.47,1710.38,0.0,1610.29,CT
+01/01/2024,SO1599,Cedar Mart,Dish Soap,Northwind,Household,53,37.94,146.59,33.48,2623.22,0.0,2443.15,MD
+01/01/2024,SO1600,Oakwood Retail,Cola 12pk,Crestline,Snacks,48,12.82,44.86,27.0,819.52,0.0,747.66,MA
+01/01/2024,SO1601,Oakwood Retail,Spring Water 24pk,Vanta,Beverages,106,27.9,215.59,34.01,3842.84,0.0,3593.24,NJ
+01/01/2024,SO1602,Maple Grocers,Spring Water 24pk,Vanta,Snacks,48,16.62,58.16,16.65,1044.09,0.0,969.28,CT
+02/01/2024,SO1603,Maple Grocers,Hand Lotion,Vanta,Snacks,106,26.43,220.85,36.53,3938.17,0.0,3680.79,DE
+02/01/2024,SO1604,Pine Street Deli,Trail Mix,Northwind,Household,34,17.01,45.59,29.02,834.45,0.0,759.84,NJ
+02/01/2024,SO1605,Pine Street Deli,Spring Water 24pk,Crestline,Household,62,43.22,211.23,8.77,3740.58,0.0,3520.58,DE
+02/01/2024,SO1606,Maple Grocers,Hand Lotion,Northwind,Household,35,34.7,95.74,8.52,1699.9,0.0,1595.64,DE
+02/01/2024,SO1607,Lakeside Provisions,Spring Water 24pk,Northwind,Beverages,110,7.06,61.22,22.52,1104.06,0.0,1020.32,NJ
+02/01/2024,SO1608,Cedar Mart,Spring Water 24pk,Northwind,Snacks,20,3.05,4.81,15.04,99.99,0.0,80.14,MA
+02/01/2024,SO1609,Birch & Co,Hand Lotion,Northwind,Beverages,12,36.41,34.44,46.36,654.84,0.0,574.04,NJ
+02/01/2024,SO1610,Riverside Market,Hand Lotion,Crestline,Snacks,113,8.03,71.53,48.71,1312.39,0.0,1192.15,CT
+02/01/2024,SO1611,Harbor Wholesale,Hand Lotion,Aurora,Beverages,9,33.96,24.09,38.43,464.08,0.0,401.56,DE
+02/01/2024,SO1612,Riverside Market,Dish Soap,Aurora,Household,69,38.37,208.7,26.05,3713.15,0.0,3478.4,PA
+02/01/2024,SO1613,Lakeside Provisions,Trail Mix,Northwind,Snacks,74,13.8,80.5,39.4,1461.58,0.0,1341.68,NJ
+02/01/2024,SO1614,Willow Distributors,Trail Mix,Aurora,Personal Care,36,8.36,23.72,41.3,460.43,0.0,395.41,PA
+02/01/2024,SO1615,Summit Foods,Hand Lotion,Northwind,Personal Care,42,9.69,32.08,3.16,569.94,0.0,534.7,MD
+02/01/2024,SO1616,Riverside Market,Spring Water 24pk,Northwind,Snacks,40,15.73,49.6,13.16,889.42,0.0,826.66,MD
+02/01/2024,SO1617,Willow Distributors,Hand Lotion,Aurora,Household,70,19.0,104.84,17.32,1869.55,0.0,1747.39,CT
+02/01/2024,SO1618,Summit Foods,Trail Mix,Crestline,Household,77,24.41,148.17,41.26,2658.86,0.0,2469.43,DE
+02/01/2024,SO1619,Harbor Wholesale,Cola 12pk,Aurora,Household,66,21.78,113.32,30.03,2031.95,0.0,1888.6,MD
+02/01/2024,SO1620,Pine Street Deli,Trail Mix,Aurora,Snacks,59,9.79,45.53,39.31,843.72,0.0,758.88,DE
+02/01/2024,SO1621,Pine Street Deli,Spring Water 24pk,Vanta,Snacks,19,44.67,66.9,42.57,1224.55,0.0,1115.08,CT
+02/01/2024,SO1622,Lakeside Provisions,Volume Discount,Aurora,Snacks,1,-187.51,0.0,0.0,0.0,40.95,-167.14,CT
+02/01/2024,SO1623,Willow Distributors,Damaged,Aurora,Household,8,25.36,0.0,0.0,0.0,0.0,591.07,DE
+03/01/2024,SO1624,Lakeside Provisions,Cola 12pk,Northwind,Personal Care,84,11.9,80.97,40.94,1471.37,0.0,1349.46,PA
+03/01/2024,SO1625,Cedar Mart,Spring Water 24pk,Northwind,Beverages,19,19.93,30.67,8.68,550.55,0.0,511.2,MA
+03/01/2024,SO1626,Maple Grocers,Dish Soap,Aurora,Snacks,6,12.39,6.02,47.87,154.25,0.0,100.36,NJ
+03/01/2024,SO1627,Lakeside Provisions,Cola 12pk,Aurora,Household,86,29.92,208.42,41.12,3723.25,0.0,3473.71,DE
+03/01/2024,SO1628,Lakeside Provisions,Hand Lotion,Vanta,Beverages,29,23.13,54.33,15.69,975.56,0.0,905.54,DE
+03/01/2024,SO1629,Pine Street Deli,Spring Water 24pk,Northwind,Household,99,23.46,188.13,30.31,3353.87,0.0,3135.43,NJ
+03/01/2024,SO1630,Summit Foods,Cola 12pk,Northwind,Household,58,37.83,177.73,15.88,3155.7,0.0,2962.09,CT
+03/01/2024,SO1631,Pine Street Deli,Hand Lotion,Aurora,Snacks,103,19.74,164.69,7.32,2916.86,0.0,2744.85,NJ
+03/01/2024,SO1632,Riverside Market,Hand Lotion,Northwind,Beverages,102,5.86,48.42,1.29,856.63,0.0,806.92,CT
+03/01/2024,SO1633,Pine Street Deli,Trail Mix,Aurora,Beverages,29,12.77,30.0,4.0,533.95,0.0,499.95,NJ
+03/01/2024,SO1634,Maple Grocers,Trail Mix,Northwind,Personal Care,16,43.56,56.45,21.62,1018.97,0.0,940.9,PA
+03/01/2024,SO1635,Summit Foods,Dish Soap,Crestline,Snacks,17,42.33,58.29,43.81,1073.57,0.0,971.47,DE
+03/01/2024,SO1636,Riverside Market,Spring Water 24pk,Crestline,Household,97,7.44,58.46,32.04,1064.77,0.0,974.27,MD
+03/01/2024,SO1637,Pine Street Deli,Cola 12pk,Vanta,Beverages,97,3.74,29.38,30.13,549.26,0.0,489.75,PA
+03/01/2024,SO1638,Cedar Mart,Hand Lotion,Aurora,Household,27,9.39,20.54,3.07,365.88,0.0,342.27,NJ
+03/01/2024,SO1639,Willow Distributors,Trail Mix,Vanta,Household,87,11.05,77.87,10.59,1386.28,0.0,1297.82,NY
+03/01/2024,SO1640,Riverside Market,Cola 12pk,Crestline,Beverages,15,34.68,42.14,30.97,775.38,0.0,702.27,NY
+03/01/2024,SO1641,Maple Grocers,Spring Water 24pk,Aurora,Snacks,83,44.31,297.9,11.96,5274.8,0.0,4964.94,NJ
+03/01/2024,SO1642,Oakwood Retail,Hand Lotion,Vanta,Snacks,103,6.13,51.14,39.13,942.65,0.0,852.38,NY
+03/01/2024,SO1643,Birch & Co,Hand Lotion,Aurora,Snacks,114,7.24,66.85,34.61,1215.7,0.0,1114.24,PA
+03/01/2024,SO1644,Harbor Wholesale,Volume Discount,Vanta,Household,1,-111.7,0.0,0.0,0.0,199.41,-166.51,PA
+04/01/2024,SO1645,Willow Distributors,Dish Soap,Aurora,Beverages,97,29.2,223.28,26.35,3970.91,0.0,3721.28,MA
+04/01/2024,SO1646,Summit Foods,Trail Mix,Aurora,Beverages,107,33.42,281.89,39.6,5019.66,0.0,4698.17,CT
+04/01/2024,SO1647,Cedar Mart,Dish Soap,Aurora,Household,67,21.89,115.61,9.73,2052.24,0.0,1926.9,PA
+04/01/2024,SO1648,Birch & Co,Hand Lotion,Aurora,Beverages,11,25.07,21.74,24.08,408.13,0.0,362.31,PA
+04/01/2024,SO1649,Pine Street Deli,Cola 12pk,Northwind,Household,75,33.81,199.89,38.47,3569.9,0.0,3331.54,DE
+04/01/2024,SO1650,Cedar Mart,Dish Soap,Northwind,Personal Care,59,20.48,95.25,24.07,1706.84,0.0,1587.52,MD
+04/01/2024,SO1651,Birch & Co,Trail Mix,Northwind,Snacks,106,13.91,116.23,38.01,2091.43,0.0,1937.19,NJ
+04/01/2024,SO1652,Maple Grocers,Trail Mix,Vanta,Household,62,10.97,53.62,30.95,978.16,0.0,893.59,DE
+04/01/2024,SO1653,Oakwood Retail,Spring Water 24pk,Aurora,Personal Care,17,3.51,4.7,12.06,95.16,0.0,78.4,MD
+04/01/2024,SO1654,Riverside Market,Trail Mix,Crestline,Snacks,89,11.35,79.63,3.23,1410.02,0.0,1327.16,CT
+04/01/2024,SO1655,Maple Grocers,Trail Mix,Vanta,Household,36,23.49,66.66,5.49,1183.17,0.0,1111.02,NJ
+04/01/2024,SO1656,Harbor Wholesale,Cola 12pk,Aurora,Personal Care,64,30.14,152.06,24.97,2711.35,0.0,2534.32,DE
+04/01/2024,SO1657,Cedar Mart,Spring Water 24pk,Crestline,Beverages,59,9.27,43.11,6.36,768.04,0.0,718.57,MA
+04/01/2024,SO1658,Lakeside Provisions,Spring Water 24pk,Northwind,Beverages,38,16.64,49.85,36.87,917.48,0.0,830.76,CT
+04/01/2024,SO1659,Harbor Wholesale,Dish Soap,Northwind,Household,108,37.05,315.43,30.7,5603.28,0.0,5257.15,MD
+04/01/2024,SO1660,Lakeside Provisions,Dish Soap,Crestline,Household,33,22.3,58.01,39.25,1064.11,0.0,966.85,CT
+04/01/2024,SO1661,Harbor Wholesale,Spring Water 24pk,Crestline,Snacks,17,8.59,11.51,5.11,208.48,0.0,191.86,NY
+04/01/2024,SO1662,Summit Foods,Spring Water 24pk,Aurora,Snacks,13,42.6,43.66,40.44,811.7,0.0,727.6,CT
+04/01/2024,SO1663,Oakwood Retail,Hand Lotion,Vanta,Beverages,52,13.7,56.16,42.04,1034.17,0.0,935.97,MA
+04/01/2024,SO1664,Harbor Wholesale,Hand Lotion,Crestline,Household,62,13.63,66.62,39.06,1215.94,0.0,1110.26,CT
+04/01/2024,SO1665,Riverside Market,Spring Water 24pk,Crestline,Snacks,32,29.76,75.07,32.97,1359.22,0.0,1251.18,MD
+05/01/2024,SO1666,Willow Distributors,Spring Water 24pk,Crestline,Snacks,64,21.93,102.32,44.12,1851.72,0.0,1705.28,MD
+05/01/2024,SO1667,Summit Foods,Spring Water 24pk,Crestline,Snacks,73,33.97,180.78,25.61,3219.36,0.0,3012.97,PA
+05/01/2024,SO1668,Birch & Co,Spring Water 24pk,Vanta,Household,105,5.01,38.35,1.9,679.4,0.0,639.15,PA
+05/01/2024,SO1669,Maple Grocers,Hand Lotion,Northwind,Personal Care,91,33.09,219.52,3.6,3881.72,0.0,3658.6,MA
+05/01/2024,SO1670,Riverside Market,Hand Lotion,Northwind,Beverages,28,7.43,15.17,1.78,269.72,0.0,252.77,MD
+05/01/2024,SO1671,Riverside Market,Spring Water 24pk,Northwind,Beverages,24,33.98,59.45,17.66,1067.97,0.0,990.86,MD
+05/01/2024,SO1672,Summit Foods,Trail Mix,Northwind,Personal Care,114,44.65,371.07,48.54,6604.08,0.0,6184.47,PA
+05/01/2024,SO1673,Willow Distributors,Cola 12pk,Aurora,Household,87,30.78,195.22,9.26,3458.08,0.0,3253.6,MD
+05/01/2024,SO1674,Maple Grocers,Spring Water 24pk,Aurora,Snacks,111,20.31,164.35,27.48,2930.94,0.0,2739.11,DE
+05/01/2024,SO1675,Summit Foods,Spring Water 24pk,Vanta,Household,100,5.89,42.94,21.21,779.79,0.0,715.64,NJ
+05/01/2024,SO1676,Cedar Mart,Spring Water 24pk,Aurora,Snacks,115,6.45,54.07,48.39,1003.69,0.0,901.23,MA
+05/01/2024,SO1677,Lakeside Provisions,Hand Lotion,Vanta,Beverages,99,35.86,258.81,11.39,4583.62,0.0,4313.42,CT
+05/01/2024,SO1678,Summit Foods,Dish Soap,Vanta,Snacks,77,19.04,106.88,10.28,1898.45,0.0,1781.29,NY
+05/01/2024,SO1679,Pine Street Deli,Hand Lotion,Crestline,Snacks,53,13.73,53.05,13.04,950.23,0.0,884.14,NJ
+05/01/2024,SO1680,Pine Street Deli,Hand Lotion,Northwind,Personal Care,109,30.04,238.7,26.52,4243.57,0.0,3978.35,MA
+05/01/2024,SO1681,Maple Grocers,Spring Water 24pk,Vanta,Household,66,40.62,195.44,16.11,3468.87,0.0,3257.32,CT
+05/01/2024,SO1682,Lakeside Provisions,Trail Mix,Northwind,Snacks,40,15.3,44.61,49.0,837.19,0.0,743.58,DE
+05/01/2024,SO1683,Lakeside Provisions,Dish Soap,Aurora,Personal Care,17,27.46,34.03,37.4,638.62,0.0,567.19,MA
+06/01/2024,SO1684,Oakwood Retail,Cola 12pk,Vanta,Household,14,17.21,15.61,46.4,322.23,0.0,260.22,CT
+06/01/2024,SO1685,Summit Foods,Spring Water 24pk,Crestline,Household,59,6.99,26.72,18.8,490.92,0.0,445.4,MA
+06/01/2024,SO1686,Maple Grocers,Dish Soap,Northwind,Beverages,82,21.46,114.03,30.65,2045.18,0.0,1900.5,MD
+06/01/2024,SO1687,Birch & Co,Dish Soap,Vanta,Snacks,26,14.5,24.43,46.42,478.01,0.0,407.16,NY
+06/01/2024,SO1688,Harbor Wholesale,Trail Mix,Aurora,Household,48,11.29,35.12,44.35,664.74,0.0,585.27,MA
+06/01/2024,SO1689,Harbor Wholesale,Cola 12pk,Aurora,Personal Care,25,15.01,24.32,40.8,470.39,0.0,405.27,PA
+06/01/2024,SO1690,Summit Foods,Trail Mix,Northwind,Household,43,38.55,107.42,45.95,1943.63,0.0,1790.26,MD
+06/01/2024,SO1691,Willow Distributors,Spring Water 24pk,Crestline,Household,22,29.71,42.35,11.05,759.31,0.0,705.91,MA
+06/01/2024,SO1692,Willow Distributors,Trail Mix,Northwind,Personal Care,12,34.42,26.76,27.89,500.73,0.0,446.08,MA
+06/01/2024,SO1693,Summit Foods,Hand Lotion,Crestline,Beverages,27,30.56,53.47,8.87,953.47,0.0,891.13,NJ
+06/01/2024,SO1694,Harbor Wholesale,Cola 12pk,Aurora,Snacks,90,34.63,201.96,13.47,3581.47,0.0,3366.04,NJ
+06/01/2024,SO1695,Maple Grocers,Dish Soap,Vanta,Snacks,96,4.81,29.92,8.24,536.86,0.0,498.7,MD
+06/01/2024,SO1696,Oakwood Retail,Trail Mix,Northwind,Household,33,31.78,67.96,4.59,1205.19,0.0,1132.64,NJ
+06/01/2024,SO1697,Summit Foods,Cola 12pk,Aurora,Snacks,54,11.97,41.89,25.29,765.27,0.0,698.09,MD
+06/01/2024,SO1698,Birch & Co,Dish Soap,Aurora,Beverages,92,17.38,103.61,20.67,1851.16,0.0,1726.88,PA
+06/01/2024,SO1699,Willow Distributors,Spring Water 24pk,Vanta,Household,41,27.79,73.83,25.42,1329.79,0.0,1230.54,PA
+06/01/2024,SO1700,Summit Foods,Trail Mix,Crestline,Personal Care,67,7.45,32.34,7.58,579.0,0.0,539.08,MD
+06/01/2024,SO1701,Oakwood Retail,Trail Mix,Vanta,Household,34,39.68,87.42,31.81,1576.28,0.0,1457.05,NY
+06/01/2024,SO1702,Lakeside Provisions,Dish Soap,Northwind,Household,105,9.72,66.13,23.08,1191.46,0.0,1102.25,NY
+06/01/2024,SO1703,Maple Grocers,Cola 12pk,Northwind,Personal Care,20,37.09,48.07,37.09,886.3,0.0,801.14,MD
+06/01/2024,SO1704,Summit Foods,Cola 12pk,Aurora,Household,7,44.66,20.26,4.96,362.85,0.0,337.63,MD
+06/01/2024,SO1705,Willow Distributors,Spring Water 24pk,Northwind,Personal Care,100,39.95,258.88,32.88,4606.36,0.0,4314.6,NY
+06/01/2024,SO1706,Riverside Market,Trail Mix,Crestline,Household,93,26.31,158.55,36.65,2837.78,0.0,2642.58,PA
+06/01/2024,SO1707,Riverside Market,Dish Soap,Northwind,Personal Care,107,28.83,199.9,34.39,3565.88,0.0,3331.59,NJ
+06/01/2024,SO1708,Harbor Wholesale,Trail Mix,Crestline,Beverages,116,35.92,270.0,27.71,4797.77,0.0,4500.06,PA
+06/01/2024,SO1709,Riverside Market,Spring Water 24pk,Crestline,Beverages,90,38.62,225.23,42.0,4021.09,0.0,3753.86,CT
+06/01/2024,SO1710,Lakeside Provisions,Trail Mix,Vanta,Personal Care,16,34.32,35.58,10.12,638.75,0.0,593.05,CT
+06/01/2024,SO1711,Oakwood Retail,Cola 12pk,Vanta,Personal Care,38,34.86,85.84,33.92,1550.41,0.0,1430.65,NJ
+07/01/2024,SO1712,Willow Distributors,Trail Mix,Vanta,Snacks,60,24.09,81.95,6.24,1454.09,0.0,1365.9,CT
+07/01/2024,SO1713,Maple Grocers,Dish Soap,Aurora,Beverages,115,21.84,142.41,36.1,2551.97,0.0,2373.46,PA
+07/01/2024,SO1714,Riverside Market,Spring Water 24pk,Crestline,Household,28,12.12,19.24,6.89,346.83,0.0,320.7,NY
+07/01/2024,SO1715,Summit Foods,Spring Water 24pk,Vanta,Beverages,106,20.33,122.19,34.78,2193.43,0.0,2036.46,PA
+07/01/2024,SO1716,Maple Grocers,Hand Lotion,Vanta,Snacks,25,4.22,5.98,8.34,114.02,0.0,99.7,MA
+07/01/2024,SO1717,Summit Foods,Spring Water 24pk,Vanta,Beverages,64,36.36,131.94,4.65,2335.64,0.0,2199.05,PA
+07/01/2024,SO1718,Harbor Wholesale,Hand Lotion,Northwind,Household,75,23.2,98.66,32.12,1775.08,0.0,1644.3,DE
+07/01/2024,SO1719,Pine Street Deli,Trail Mix,Crestline,Beverages,92,7.37,38.44,11.27,690.46,0.0,640.75,NJ
+07/01/2024,SO1720,Willow Distributors,Cola 12pk,Vanta,Personal Care,8,5.22,2.37,24.33,66.16,0.0,39.46,NY
+07/01/2024,SO1721,Oakwood Retail,Spring Water 24pk,Aurora,Personal Care,34,36.81,70.96,13.49,1267.16,0.0,1182.71,NJ
+07/01/2024,SO1722,Willow Distributors,Hand Lotion,Crestline,Snacks,64,16.53,59.98,31.82,1091.53,0.0,999.73,NJ
+07/01/2024,SO1723,Harbor Wholesale,Trail Mix,Aurora,Household,87,5.46,26.93,16.71,492.53,0.0,448.89,NJ
+07/01/2024,SO1724,Riverside Market,Dish Soap,Vanta,Personal Care,34,44.24,85.29,10.49,1517.21,0.0,1421.43,CT
+07/01/2024,SO1725,Pine Street Deli,Spring Water 24pk,Vanta,Personal Care,104,24.73,145.83,22.01,2598.3,0.0,2430.46,NY
+07/01/2024,SO1726,Lakeside Provisions,Dish Soap,Crestline,Snacks,104,8.14,48.0,36.78,884.78,0.0,800.0,CT
+07/01/2024,SO1727,Pine Street Deli,Hand Lotion,Aurora,Personal Care,101,6.72,38.48,11.03,690.9,0.0,641.39,PA
+07/01/2024,SO1728,Pine Street Deli,Cola 12pk,Northwind,Beverages,96,33.9,184.52,49.92,3309.85,0.0,3075.41,NY
+07/01/2024,SO1729,Riverside Market,Dish Soap,Aurora,Personal Care,49,10.29,28.59,31.88,536.95,0.0,476.48,MD
+07/01/2024,SO1730,Birch & Co,Spring Water 24pk,Northwind,Personal Care,24,36.0,48.99,5.92,871.39,0.0,816.48,MD
+07/01/2024,SO1731,Birch & Co,Hand Lotion,Vanta,Snacks,74,44.63,187.26,37.36,3345.6,0.0,3120.98,CT
+07/01/2024,SO1732,Riverside Market,Hand Lotion,Crestline,Beverages,107,27.02,163.93,29.39,2925.45,0.0,2732.13,MA
+07/01/2024,SO1733,Riverside Market,Hand Lotion,Northwind,Snacks,65,44.15,162.71,8.26,2882.88,0.0,2711.91,NY
+07/01/2024,SO1734,Harbor Wholesale,Trail Mix,Northwind,Beverages,111,4.02,25.3,41.58,488.56,0.0,421.68,CT
+07/01/2024,SO1735,Riverside Market,Volume Discount,Vanta,Snacks,1,-113.25,0.0,0.0,0.0,73.77,-189.32,MD
+07/01/2024,SO1736,Summit Foods,Lost,Crestline,Beverages,3,18.83,0.0,0.0,0.0,0.0,396.3,NY
+08/01/2024,SO1737,Birch & Co,Hand Lotion,Vanta,Household,53,21.28,57.26,46.87,1058.48,0.0,954.35,MD
+08/01/2024,SO1738,Birch & Co,Hand Lotion,Crestline,Beverages,104,8.61,45.46,4.03,807.19,0.0,757.7,MD
+08/01/2024,SO1739,Riverside Market,Hand Lotion,Vanta,Snacks,107,40.96,222.51,45.47,3976.52,0.0,3708.54,NY
+08/01/2024,SO1740,Riverside Market,Cola 12pk,Aurora,Beverages,28,33.64,47.82,38.28,883.13,0.0,797.03,MD
+08/01/2024,SO1741,Birch & Co,Dish Soap,Crestline,Personal Care,58,12.46,36.69,6.57,654.77,0.0,611.51,PA
+08/01/2024,SO1742,Cedar Mart,Cola 12pk,Vanta,Personal Care,61,34.56,107.03,32.85,1923.75,0.0,1783.87,NJ
+08/01/2024,SO1743,Pine Street Deli,Hand Lotion,Northwind,Snacks,40,3.56,7.23,14.14,141.87,0.0,120.5,MA
+08/01/2024,SO1744,Maple Grocers,Hand Lotion,Vanta,Household,110,14.85,82.93,13.09,1478.24,0.0,1382.22,DE
+08/01/2024,SO1745,Maple Grocers,Hand Lotion,Northwind,Household,39,14.58,28.87,39.36,549.38,0.0,481.15,PA
+08/01/2024,SO1746,Oakwood Retail,Dish Soap,Aurora,Household,14,14.42,10.25,37.97,219.05,0.0,170.83,PA
+08/01/2024,SO1747,Riverside Market,Trail Mix,Vanta,Snacks,110,38.48,214.9,13.41,3809.99,0.0,3581.68,PA
+08/01/2024,SO1748,Oakwood Retail,Dish Soap,Vanta,Personal Care,77,23.48,91.79,1.68,1623.32,0.0,1529.85,MA
+08/01/2024,SO1749,Harbor Wholesale,Hand Lotion,Aurora,Snacks,88,29.03,129.7,28.1,2319.47,0.0,2161.67,MD
+08/01/2024,SO1750,Cedar Mart,Cola 12pk,Vanta,Household,25,25.36,32.19,20.55,589.21,0.0,536.47,MD
+08/01/2024,SO1751,Birch & Co,Trail Mix,Aurora,Beverages,11,6.63,3.7,11.84,77.25,0.0,61.71,PA
+08/01/2024,SO1752,Summit Foods,Cola 12pk,Vanta,Beverages,36,30.88,56.44,48.17,1045.28,0.0,940.67,NY
+08/01/2024,SO1753,Harbor Wholesale,Spring Water 24pk,Northwind,Snacks,19,40.05,38.63,19.67,702.2,0.0,643.9,NJ
+08/01/2024,SO1754,Maple Grocers,Dish Soap,Vanta,Snacks,30,20.59,31.36,13.01,567.05,0.0,522.68,PA
+08/01/2024,SO1755,Cedar Mart,Cola 12pk,Crestline,Personal Care,61,23.77,73.62,48.98,1349.53,0.0,1226.93,DE
+08/01/2024,SO1756,Maple Grocers,Trail Mix,Aurora,Household,73,30.48,112.97,9.9,2005.64,0.0,1882.77,CT
+08/01/2024,SO1757,Summit Foods,Hand Lotion,Vanta,Household,92,17.21,80.39,15.43,1435.58,0.0,1339.76,PA
+09/01/2024,SO1758,Pine Street Deli,Spring Water 24pk,Northwind,Household,37,9.35,16.81,11.27,308.3,0.0,280.22,NJ
+09/01/2024,SO1759,Maple Grocers,Trail Mix,Vanta,Snacks,110,6.73,35.98,34.19,669.81,0.0,599.64,MD
+09/01/2024,SO1760,Harbor Wholesale,Trail Mix,Northwind,Household,37,24.98,44.92,5.74,799.31,0.0,748.65,DE
+09/01/2024,SO1761,Birch & Co,Spring Water 24pk,Vanta,Beverages,102,19.97,99.0,27.13,1776.05,0.0,1649.92,CT
+09/01/2024,SO1762,Summit Foods,Cola 12pk,Northwind,Beverages,43,32.73,68.4,27.18,1235.57,0.0,1139.99,NY
+09/01/2024,SO1763,Willow Distributors,Dish Soap,Crestline,Household,74,12.5,44.96,42.35,836.56,0.0,749.25,CT
+09/01/2024,SO1764,Oakwood Retail,Hand Lotion,Vanta,Household,78,9.96,37.76,47.28,714.31,0.0,629.27,NY
+09/01/2024,SO1765,Pine Street Deli,Cola 12pk,Vanta,Personal Care,116,12.08,68.1,4.88,1208.02,0.0,1135.04,MA
+09/01/2024,SO1766,Maple Grocers,Cola 12pk,Aurora,Household,20,20.29,19.72,32.55,380.97,0.0,328.7,MA
+09/01/2024,SO1767,Pine Street Deli,Spring Water 24pk,Crestline,Personal Care,90,15.2,66.48,39.35,1213.91,0.0,1108.08,NJ
+09/01/2024,SO1768,Pine Street Deli,Dish Soap,Crestline,Household,42,36.87,75.26,22.96,1352.54,0.0,1254.32,PA
+09/01/2024,SO1769,Harbor Wholesale,Trail Mix,Crestline,Snacks,68,36.35,120.13,24.86,2147.15,0.0,2002.16,NJ
+09/01/2024,SO1770,Oakwood Retail,Trail Mix,Vanta,Beverages,36,13.86,24.25,8.24,436.65,0.0,404.16,DE
+09/01/2024,SO1771,Pine Street Deli,Dish Soap,Vanta,Personal Care,72,34.78,121.7,25.97,2176.04,0.0,2028.37,CT
+09/01/2024,SO1772,Maple Grocers,Cola 12pk,Vanta,Snacks,108,39.87,209.27,43.98,3741.08,0.0,3487.83,PA
+09/01/2024,SO1773,Birch & Co,Hand Lotion,Northwind,Household,96,13.73,64.06,47.33,1179.03,0.0,1067.64,MA
+09/01/2024,SO1774,Summit Foods,Cola 12pk,Crestline,Snacks,44,44.37,94.88,38.6,1714.83,0.0,1581.35,PA
+09/01/2024,SO1775,Cedar Mart,Trail Mix,Aurora,Household,67,26.21,85.35,4.71,1512.48,0.0,1422.42,DE
+09/01/2024,SO1776,Oakwood Retail,Spring Water 24pk,Northwind,Snacks,7,41.19,14.01,26.94,274.5,0.0,233.55,PA
+09/01/2024,SO1777,Pine Street Deli,Hand Lotion,Northwind,Household,103,7.43,37.19,32.84,689.91,0.0,619.88,PA
+09/01/2024,SO1778,Willow Distributors,Dish Soap,Crestline,Personal Care,93,19.69,88.99,4.67,1576.91,0.0,1483.25,MD
+09/01/2024,SO1779,Cedar Mart,Spring Water 24pk,Aurora,Beverages,73,43.51,154.36,10.19,2737.3,0.0,2572.75,CT
+09/01/2024,SO1780,Birch & Co,Spring Water 24pk,Northwind,Personal Care,78,6.95,26.35,17.83,483.28,0.0,439.1,MA
+09/01/2024,SO1781,Lakeside Provisions,Spring Water 24pk,Crestline,Snacks,45,27.26,59.62,31.73,1084.98,0.0,993.63,NY
+09/01/2024,SO1782,Oakwood Retail,Hand Lotion,Northwind,Personal Care,59,29.99,85.99,9.79,1529.0,0.0,1433.22,NY
+09/01/2024,SO1783,Summit Foods,Spring Water 24pk,Crestline,Personal Care,114,25.39,140.67,7.9,2493.08,0.0,2344.51,PA
+10/01/2024,SO1784,Oakwood Retail,Spring Water 24pk,Northwind,Beverages,84,39.0,166.32,45.31,2983.69,0.0,2772.06,CT
+10/01/2024,SO1785,Harbor Wholesale,Trail Mix,Crestline,Snacks,118,10.09,60.45,25.35,1093.27,0.0,1007.47,CT
+10/01/2024,SO1786,Summit Foods,Cola 12pk,Aurora,Personal Care,96,11.48,55.95,9.21,997.71,0.0,932.55,DE
+10/01/2024,SO1787,Lakeside Provisions,Hand Lotion,Vanta,Personal Care,105,33.77,180.02,41.02,3221.44,0.0,3000.4,CT
+10/01/2024,SO1788,Maple Grocers,Cola 12pk,Aurora,Snacks,105,21.49,114.56,30.76,2054.67,0.0,1909.35,DE
+10/01/2024,SO1789,Maple Grocers,Dish Soap,Crestline,Snacks,23,40.06,46.78,40.18,866.61,0.0,779.65,NJ
+10/01/2024,SO1790,Harbor Wholesale,Trail Mix,Aurora,Household,50,16.43,41.71,49.42,786.26,0.0,695.13,PA
+10/01/2024,SO1791,Riverside Market,Hand Lotion,Northwind,Household,113,44.33,254.32,33.4,4526.45,0.0,4238.73,NY
+10/01/2024,SO1792,Maple Grocers,Dish Soap,Aurora,Household,17,16.57,14.3,49.85,302.51,0.0,238.36,CT
+10/01/2024,SO1793,Lakeside Provisions,Trail Mix,Crestline,Household,99,30.56,153.6,6.49,2720.14,0.0,2560.05,CT
+10/01/2024,SO1794,Harbor Wholesale,Trail Mix,Crestline,Personal Care,73,26.51,98.25,26.37,1762.16,0.0,1637.54,NJ
+10/01/2024,SO1795,Harbor Wholesale,Trail Mix,Northwind,Snacks,29,37.56,55.3,10.49,987.48,0.0,921.69,DE
+10/01/2024,SO1796,Willow Distributors,Cola 12pk,Aurora,Snacks,9,43.89,20.06,16.84,371.15,0.0,334.25,NJ
+10/01/2024,SO1797,Maple Grocers,Hand Lotion,Crestline,Household,13,37.4,24.68,27.04,463.13,0.0,411.41,MD
+10/01/2024,SO1798,Willow Distributors,Spring Water 24pk,Aurora,Beverages,87,34.9,154.15,49.4,2772.79,0.0,2569.24,DE
+10/01/2024,SO1799,Maple Grocers,Spring Water 24pk,Aurora,Personal Care,70,37.51,133.31,22.96,2378.07,0.0,2221.8,CT
+10/01/2024,SO1800,Riverside Market,Cola 12pk,Vanta,Household,89,13.68,61.81,40.96,1133.0,0.0,1030.23,CT
+10/01/2024,SO1801,Harbor Wholesale,Spring Water 24pk,Northwind,Household,80,17.08,69.37,8.69,1234.27,0.0,1156.21,CT
+10/01/2024,SO1802,Birch & Co,Dish Soap,Aurora,Snacks,25,7.74,9.82,4.36,177.91,0.0,163.73,CT
+10/01/2024,SO1803,Birch & Co,Cola 12pk,Aurora,Beverages,37,13.07,24.55,7.1,440.85,0.0,409.2,PA
+10/01/2024,SO1804,Riverside Market,Hand Lotion,Aurora,Snacks,45,34.07,77.84,9.56,1384.71,0.0,1297.31,MA
+10/01/2024,SO1805,Pine Street Deli,Cola 12pk,Northwind,Snacks,79,30.35,121.73,31.05,2181.61,0.0,2028.83,PA
+10/01/2024,SO1806,Pine Street Deli,Trail Mix,Vanta,Beverages,26,34.0,44.88,40.31,833.21,0.0,748.02,MA
+10/01/2024,SO1807,Harbor Wholesale,Hand Lotion,Vanta,Household,98,44.12,219.52,31.71,3909.88,0.0,3658.65,NY
+10/01/2024,SO1808,Maple Grocers,Volume Discount,Aurora,Beverages,1,-141.71,0.0,0.0,0.0,78.52,-143.54,NJ
+10/01/2024,SO1809,Willow Distributors,Lost,Northwind,Beverages,7,10.02,0.0,0.0,0.0,0.0,541.46,NY
+11/01/2024,SO1810,Pine Street Deli,Trail Mix,Aurora,Personal Care,76,6.05,26.07,3.85,464.43,0.0,434.51,PA
+11/01/2024,SO1811,Cedar Mart,Spring Water 24pk,Crestline,Beverages,71,32.15,129.43,25.63,2312.16,0.0,2157.1,MD
+11/01/2024,SO1812,Maple Grocers,Dish Soap,Northwind,Household,42,18.14,43.2,3.43,766.61,0.0,719.98,MD
+11/01/2024,SO1813,Lakeside Provisions,Spring Water 24pk,Crestline,Beverages,61,15.77,54.54,32.66,996.26,0.0,909.06,MD
+11/01/2024,SO1814,Maple Grocers,Trail Mix,Aurora,Snacks,18,40.95,41.79,11.64,749.99,0.0,696.56,PA
+11/01/2024,SO1815,Cedar Mart,Cola 12pk,Crestline,Household,13,36.11,26.62,33.25,503.48,0.0,443.61,DE
+11/01/2024,SO1816,Oakwood Retail,Dish Soap,Aurora,Snacks,86,30.33,147.9,43.71,2656.53,0.0,2464.92,NJ
+11/01/2024,SO1817,Lakeside Provisions,Hand Lotion,Vanta,Household,95,26.54,142.96,5.55,2531.14,0.0,2382.63,MD
+11/01/2024,SO1818,Cedar Mart,Hand Lotion,Vanta,Snacks,50,22.34,63.33,43.23,1162.12,0.0,1055.56,NJ
+11/01/2024,SO1819,Maple Grocers,Trail Mix,Northwind,Beverages,76,8.41,36.24,20.64,660.89,0.0,604.01,CT
+11/01/2024,SO1820,Willow Distributors,Hand Lotion,Vanta,Snacks,82,23.12,107.49,0.9,1899.96,0.0,1791.57,MA
+11/01/2024,SO1821,Oakwood Retail,Cola 12pk,Vanta,Beverages,44,34.08,85.02,45.9,1547.97,0.0,1417.05,MD
+11/01/2024,SO1822,Cedar Mart,Hand Lotion,Northwind,Beverages,91,8.35,43.08,35.38,796.52,0.0,718.06,CT
+11/01/2024,SO1823,Maple Grocers,Spring Water 24pk,Vanta,Household,114,41.25,266.63,37.7,4748.19,0.0,4443.86,DE
+11/01/2024,SO1824,Maple Grocers,Cola 12pk,Crestline,Snacks,77,38.26,167.04,49.09,3000.12,0.0,2783.99,DE
+11/01/2024,SO1825,Birch & Co,Cola 12pk,Crestline,Beverages,82,33.52,155.85,15.24,2768.55,0.0,2597.46,CT
+11/01/2024,SO1826,Cedar Mart,Dish Soap,Northwind,Personal Care,23,39.66,51.72,5.63,919.36,0.0,862.01,NY
+11/01/2024,SO1827,Maple Grocers,Trail Mix,Aurora,Personal Care,42,8.05,19.17,3.42,342.09,0.0,319.5,MD
+11/01/2024,SO1828,Cedar Mart,Volume Discount,Northwind,Beverages,1,-28.3,0.0,0.0,0.0,122.09,-71.09,MD
+12/01/2024,SO1829,Oakwood Retail,Trail Mix,Vanta,Household,103,12.51,83.5,36.51,1511.62,0.0,1391.61,PA
+12/01/2024,SO1830,Birch & Co,Trail Mix,Aurora,Personal Care,45,5.02,14.64,45.14,303.75,0.0,243.97,CT
+12/01/2024,SO1831,Riverside Market,Hand Lotion,Northwind,Personal Care,12,39.84,30.98,16.52,563.83,0.0,516.33,MD
+12/01/2024,SO1832,Riverside Market,Hand Lotion,Vanta,Personal Care,90,40.48,236.08,9.27,4180.01,0.0,3934.66,PA
+12/01/2024,SO1833,Cedar Mart,Spring Water 24pk,Aurora,Beverages,59,25.32,96.8,41.91,1752.1,0.0,1613.39,CT
+12/01/2024,SO1834,Maple Grocers,Cola 12pk,Vanta,Beverages,52,4.46,15.03,29.14,294.64,0.0,250.47,MD
+12/01/2024,SO1835,Willow Distributors,Cola 12pk,Aurora,Household,68,36.14,159.25,28.67,2842.04,0.0,2654.12,MA
+12/01/2024,SO1836,Cedar Mart,Dish Soap,Northwind,Household,25,5.67,9.19,41.57,203.85,0.0,153.09,MD
+12/01/2024,SO1837,Harbor Wholesale,Hand Lotion,Aurora,Household,71,23.51,108.16,36.88,1947.79,0.0,1802.75,MA
+12/01/2024,SO1838,Oakwood Retail,Hand Lotion,Vanta,Beverages,77,41.2,205.57,33.46,3665.22,0.0,3426.19,NJ
+12/01/2024,SO1839,Maple Grocers,Dish Soap,Northwind,Household,85,5.72,31.51,47.79,604.4,0.0,525.1,MD
+12/01/2024,SO1840,Birch & Co,Cola 12pk,Crestline,Household,12,24.73,19.23,21.52,361.25,0.0,320.5,DE
+12/01/2024,SO1841,Maple Grocers,Trail Mix,Aurora,Personal Care,80,41.25,213.84,23.22,3801.06,0.0,3564.0,NY
+12/01/2024,SO1842,Riverside Market,Dish Soap,Vanta,Snacks,19,28.28,34.82,44.63,659.76,0.0,580.31,NY
+12/01/2024,SO1843,Lakeside Provisions,Trail Mix,Aurora,Personal Care,97,10.16,63.86,47.41,1175.63,0.0,1064.36,MD
+12/01/2024,SO1844,Oakwood Retail,Spring Water 24pk,Northwind,Personal Care,42,27.85,75.8,35.13,1374.21,0.0,1263.28,NJ
+12/01/2024,SO1845,Cedar Mart,Hand Lotion,Aurora,Snacks,8,31.41,16.28,6.58,294.24,0.0,271.38,CT
+12/01/2024,SO1846,Birch & Co,Spring Water 24pk,Aurora,Personal Care,8,19.15,9.93,24.38,199.77,0.0,165.46,MD
+12/01/2024,SO1847,Birch & Co,Trail Mix,Vanta,Snacks,90,14.03,81.82,13.58,1459.12,0.0,1363.72,DE
+12/01/2024,SO1848,Riverside Market,Hand Lotion,Northwind,Household,95,34.23,210.72,25.31,3748.03,0.0,3512.0,MA
+12/01/2024,SO1849,Lakeside Provisions,Cola 12pk,Vanta,Snacks,91,20.09,118.47,44.57,2137.49,0.0,1974.45,PA
+12/01/2024,SO1850,Oakwood Retail,Dish Soap,Vanta,Personal Care,86,18.2,101.43,23.62,1815.47,0.0,1690.42,MD
+12/01/2024,SO1851,Summit Foods,Volume Discount,Northwind,Personal Care,1,-45.2,0.0,0.0,0.0,69.83,-194.88,MA
+12/01/2024,SO1852,Birch & Co,Lost,Crestline,Snacks,1,29.15,0.0,0.0,0.0,0.0,402.31,CT
+01/01/2025,SO1853,Willow Distributors,Dish Soap,Northwind,Household,60,27.82,126.19,26.85,2256.23,0.0,2103.19,DE
+01/01/2025,SO1854,Summit Foods,Cola 12pk,Northwind,Household,53,3.32,13.3,10.95,245.96,0.0,221.71,DE
+01/01/2025,SO1855,Oakwood Retail,Cola 12pk,Aurora,Personal Care,47,38.44,136.59,14.25,2427.26,0.0,2276.42,MA
+01/01/2025,SO1856,Birch & Co,Dish Soap,Vanta,Personal Care,43,36.71,119.34,28.6,2136.89,0.0,1988.95,MD
+01/01/2025,SO1857,Birch & Co,Spring Water 24pk,Aurora,Beverages,66,19.67,98.15,2.22,1736.13,0.0,1635.76,CT
+01/01/2025,SO1858,Maple Grocers,Spring Water 24pk,Northwind,Snacks,109,19.67,162.09,4.35,2867.92,0.0,2701.48,PA
+01/01/2025,SO1859,Pine Street Deli,Dish Soap,Northwind,Snacks,45,37.36,127.1,26.58,2271.99,0.0,2118.31,MD
+01/01/2025,SO1860,Pine Street Deli,Trail Mix,Aurora,Beverages,63,24.31,115.78,43.71,2089.22,0.0,1929.73,PA
+01/01/2025,SO1861,Riverside Market,Cola 12pk,Vanta,Snacks,17,31.37,40.32,2.24,714.51,0.0,671.95,DE
+01/01/2025,SO1862,Harbor Wholesale,Cola 12pk,Vanta,Household,15,8.52,9.66,13.74,184.43,0.0,161.03,DE
+01/01/2025,SO1863,Lakeside Provisions,Hand Lotion,Aurora,Personal Care,5,19.37,7.32,36.49,165.84,0.0,122.03,MD
+01/01/2025,SO1864,Birch & Co,Spring Water 24pk,Crestline,Beverages,76,41.12,236.26,35.7,4209.61,0.0,3937.65,DE
+01/01/2025,SO1865,Harbor Wholesale,Cola 12pk,Crestline,Personal Care,16,31.33,37.9,14.84,684.35,0.0,631.61,MD
+01/01/2025,SO1866,Oakwood Retail,Cola 12pk,Northwind,Snacks,94,43.11,306.36,41.06,5453.37,0.0,5105.95,MD
+01/01/2025,SO1867,Pine Street Deli,Hand Lotion,Northwind,Snacks,12,39.24,35.6,0.11,629.02,0.0,593.31,DE
+01/01/2025,SO1868,Summit Foods,Trail Mix,Aurora,Beverages,34,13.82,35.52,2.98,630.55,0.0,592.05,CT
+01/01/2025,SO1869,Lakeside Provisions,Dish Soap,Aurora,Household,51,39.61,152.72,12.83,2710.89,0.0,2545.34,NY
+01/01/2025,SO1870,Willow Distributors,Dish Soap,Northwind,Beverages,72,19.12,104.07,22.81,1861.45,0.0,1734.57,PA
+01/01/2025,SO1871,Summit Foods,Spring Water 24pk,Vanta,Snacks,86,6.88,44.73,29.82,820.07,0.0,745.52,PA
+01/01/2025,SO1872,Willow Distributors,Dish Soap,Aurora,Personal Care,44,34.55,114.93,3.55,2033.93,0.0,1915.45,MD
+01/01/2025,SO1873,Riverside Market,Dish Soap,Crestline,Snacks,119,17.9,161.04,47.09,2892.06,0.0,2683.93,NY
+02/01/2025,SO1874,Birch & Co,Trail Mix,Aurora,Personal Care,55,27.93,125.58,0.51,2219.07,0.0,2092.98,MA
+02/01/2025,SO1875,Riverside Market,Dish Soap,Vanta,Snacks,86,8.83,62.08,5.79,1102.52,0.0,1034.65,NY
+02/01/2025,SO1876,Oakwood Retail,Dish Soap,Crestline,Household,43,39.7,139.55,36.2,2501.65,0.0,2325.9,NY
+02/01/2025,SO1877,Birch & Co,Spring Water 24pk,Vanta,Beverages,31,34.12,86.47,26.5,1554.1,0.0,1441.13,DE
+02/01/2025,SO1878,Cedar Mart,Trail Mix,Crestline,Snacks,7,25.43,14.55,7.11,264.2,0.0,242.54,NJ
+02/01/2025,SO1879,Lakeside Provisions,Spring Water 24pk,Crestline,Personal Care,85,32.19,223.68,26.62,3978.27,0.0,3727.97,PA
+02/01/2025,SO1880,Maple Grocers,Cola 12pk,Crestline,Household,111,23.41,212.43,28.86,3781.73,0.0,3540.44,MA
+02/01/2025,SO1881,Cedar Mart,Spring Water 24pk,Vanta,Household,94,41.23,316.83,40.4,5637.71,0.0,5280.48,DE
+02/01/2025,SO1882,Oakwood Retail,Cola 12pk,Northwind,Beverages,99,22.6,182.91,40.84,3272.18,0.0,3048.43,NJ
+02/01/2025,SO1883,Birch & Co,Cola 12pk,Northwind,Beverages,42,38.52,132.26,34.62,2371.17,0.0,2204.29,DE
+02/01/2025,SO1884,Harbor Wholesale,Trail Mix,Aurora,Personal Care,22,19.96,35.9,3.88,638.08,0.0,598.3,MD
+02/01/2025,SO1885,Harbor Wholesale,Cola 12pk,Aurora,Personal Care,77,15.87,99.9,39.45,1804.3,0.0,1664.95,DE
+02/01/2025,SO1886,Summit Foods,Spring Water 24pk,Aurora,Personal Care,64,12.5,65.4,19.21,1174.6,0.0,1089.99,DE
+02/01/2025,SO1887,Maple Grocers,Spring Water 24pk,Crestline,Beverages,71,39.02,226.48,45.83,4046.97,0.0,3774.66,NJ
+02/01/2025,SO1888,Pine Street Deli,Cola 12pk,Northwind,Beverages,67,7.15,39.16,44.48,736.34,0.0,652.7,MA
+02/01/2025,SO1889,Pine Street Deli,Hand Lotion,Northwind,Personal Care,36,18.59,54.71,30.05,996.59,0.0,911.83,CT
+02/01/2025,SO1890,Lakeside Provisions,Dish Soap,Vanta,Beverages,104,19.5,165.79,26.29,2955.2,0.0,2763.12,CT
+02/01/2025,SO1891,Birch & Co,Spring Water 24pk,Aurora,Beverages,38,10.01,31.1,21.53,570.89,0.0,518.26,MD
+02/01/2025,SO1892,Riverside Market,Dish Soap,Aurora,Beverages,72,4.88,28.72,38.1,545.54,0.0,478.72,PA
+02/01/2025,SO1893,Pine Street Deli,Damaged,Crestline,Personal Care,2,29.75,0.0,0.0,0.0,0.0,305.45,MD
+03/01/2025,SO1894,Maple Grocers,Hand Lotion,Vanta,Snacks,15,16.07,20.25,33.86,391.58,0.0,337.47,MA
+03/01/2025,SO1895,Summit Foods,Hand Lotion,Northwind,Household,73,25.31,155.2,42.09,2783.97,0.0,2586.68,DE
+03/01/2025,SO1896,Pine Street Deli,Dish Soap,Northwind,Beverages,60,44.5,224.28,22.7,3984.98,0.0,3738.0,MA
+03/01/2025,SO1897,Riverside Market,Spring Water 24pk,Northwind,Beverages,8,10.03,6.74,48.6,167.68,0.0,112.34,MA
+03/01/2025,SO1898,Birch & Co,Cola 12pk,Vanta,Beverages,34,4.16,11.88,25.27,235.17,0.0,198.02,PA
+03/01/2025,SO1899,Oakwood Retail,Trail Mix,Northwind,Personal Care,79,8.7,57.73,4.97,1024.92,0.0,962.22,DE
+03/01/2025,SO1900,Summit Foods,Trail Mix,Northwind,Snacks,50,4.3,18.06,19.4,338.46,0.0,301.0,MA
+03/01/2025,SO1901,Harbor Wholesale,Spring Water 24pk,Crestline,Snacks,110,19.61,181.2,15.66,3216.8,0.0,3019.94,DE
+03/01/2025,SO1902,Birch & Co,Hand Lotion,Aurora,Beverages,19,23.49,37.49,6.5,668.82,0.0,624.83,PA
+03/01/2025,SO1903,Pine Street Deli,Spring Water 24pk,Aurora,Snacks,41,43.15,148.61,15.7,2641.12,0.0,2476.81,DE
+03/01/2025,SO1904,Oakwood Retail,Dish Soap,Vanta,Snacks,91,21.65,165.49,49.74,2973.44,0.0,2758.21,DE
+03/01/2025,SO1905,Riverside Market,Dish Soap,Northwind,Beverages,77,44.33,286.73,14.42,5079.92,0.0,4778.77,NY
+03/01/2025,SO1906,Cedar Mart,Hand Lotion,Crestline,Household,51,9.37,40.14,1.55,710.71,0.0,669.02,MA
+03/01/2025,SO1907,Willow Distributors,Trail Mix,Crestline,Household,100,17.3,145.32,27.07,2594.39,0.0,2422.0,MD
+03/01/2025,SO1908,Lakeside Provisions,Trail Mix,Crestline,Beverages,41,23.07,79.45,26.61,1430.28,0.0,1324.22,PA
+03/01/2025,SO1909,Harbor Wholesale,Hand Lotion,Northwind,Household,113,35.0,332.22,41.68,5910.9,0.0,5537.0,MD
+03/01/2025,SO1910,Summit Foods,Dish Soap,Crestline,Personal Care,55,17.96,82.98,41.34,1507.24,0.0,1382.92,CT
+03/01/2025,SO1911,Oakwood Retail,Dish Soap,Vanta,Personal Care,113,11.17,106.03,2.88,1876.0,0.0,1767.09,MA
+03/01/2025,SO1912,Summit Foods,Cola 12pk,Aurora,Beverages,50,31.45,132.09,11.75,2345.34,0.0,2201.5,MD
+03/01/2025,SO1913,Summit Foods,Cola 12pk,Crestline,Snacks,15,26.42,33.29,17.36,605.47,0.0,554.82,PA
+03/01/2025,SO1914,Riverside Market,Spring Water 24pk,Aurora,Beverages,96,27.49,221.68,49.99,3966.33,0.0,3694.66,MD
+03/01/2025,SO1915,Willow Distributors,Trail Mix,Vanta,Beverages,17,29.3,41.84,24.44,763.62,0.0,697.34,MA
+03/01/2025,SO1916,Birch & Co,Cola 12pk,Crestline,Personal Care,55,35.86,165.67,36.73,2963.62,0.0,2761.22,DE
+03/01/2025,SO1917,Oakwood Retail,Hand Lotion,Northwind,Snacks,86,29.18,210.8,28.47,3752.54,0.0,3513.27,MD
+03/01/2025,SO1918,Summit Foods,Hand Lotion,Crestline,Beverages,23,11.46,22.14,19.76,410.91,0.0,369.01,CT
+03/01/2025,SO1919,Birch & Co,Spring Water 24pk,Crestline,Snacks,32,38.81,104.32,35.54,1878.55,0.0,1738.69,MD
+03/01/2025,SO1920,Birch & Co,Trail Mix,Northwind,Personal Care,23,8.56,16.54,29.65,321.82,0.0,275.63,NY
+03/01/2025,SO1921,Willow Distributors,Cola 12pk,Northwind,Snacks,102,33.33,285.57,26.67,5071.76,0.0,4759.52,DE
+03/01/2025,SO1922,Cedar Mart,Lost,Aurora,Snacks,7,8.24,0.0,0.0,0.0,0.0,645.66,
+04/01/2025,SO1923,Riverside Market,Dish Soap,Northwind,Household,45,39.84,146.56,47.2,2636.43,0.0,2442.67,NY
+04/01/2025,SO1924,Harbor Wholesale,Cola 12pk,Aurora,Household,21,42.86,73.58,25.65,1325.55,0.0,1226.32,CT
+04/01/2025,SO1925,Cedar Mart,Spring Water 24pk,Vanta,Beverages,112,23.3,213.33,43.18,3812.06,0.0,3555.55,DE
+04/01/2025,SO1926,Riverside Market,Cola 12pk,Crestline,Household,59,18.76,90.48,14.29,1612.83,0.0,1508.06,MD
+04/01/2025,SO1927,Willow Distributors,Cola 12pk,Crestline,Snacks,37,26.63,80.55,22.06,1445.08,0.0,1342.47,CT
+04/01/2025,SO1928,Oakwood Retail,Cola 12pk,Vanta,Beverages,31,24.47,62.01,24.62,1120.17,0.0,1033.54,MA
+04/01/2025,SO1929,Lakeside Provisions,Trail Mix,Crestline,Personal Care,118,33.48,322.96,44.72,5750.38,0.0,5382.7,PA
+04/01/2025,SO1930,Cedar Mart,Hand Lotion,Crestline,Beverages,95,20.12,156.26,41.38,2801.9,0.0,2604.26,MA
+04/01/2025,SO1931,Cedar Mart,Trail Mix,Northwind,Snacks,115,27.09,254.68,47.8,4547.1,0.0,4244.62,NJ
+04/01/2025,SO1932,Harbor Wholesale,Trail Mix,Crestline,Snacks,52,44.84,190.61,2.97,3370.46,0.0,3176.88,NY
+04/01/2025,SO1933,Willow Distributors,Spring Water 24pk,Crestline,Snacks,49,21.44,85.88,42.35,1559.6,0.0,1431.37,CT
+04/01/2025,SO1934,Riverside Market,Hand Lotion,Crestline,Personal Care,100,13.1,107.09,15.59,1907.54,0.0,1784.86,CT
+04/01/2025,SO1935,Willow Distributors,Trail Mix,Northwind,Personal Care,71,21.83,126.71,25.52,2263.99,0.0,2111.76,NJ
+04/01/2025,SO1936,Maple Grocers,Trail Mix,Northwind,Snacks,114,12.27,114.35,36.7,2056.87,0.0,1905.82,NY
+04/01/2025,SO1937,Willow Distributors,Trail Mix,Aurora,Beverages,118,23.03,222.16,34.39,3959.16,0.0,3702.61,NY
+04/01/2025,SO1938,Summit Foods,Cola 12pk,Crestline,Personal Care,47,39.63,152.27,26.36,2716.41,0.0,2537.78,MA
+04/01/2025,SO1939,Pine Street Deli,Spring Water 24pk,Aurora,Snacks,68,15.57,86.55,17.94,1547.04,0.0,1442.55,CT
+04/01/2025,SO1940,Cedar Mart,Trail Mix,Vanta,Snacks,70,17.0,97.28,36.65,1755.29,0.0,1621.36,MD
+04/01/2025,SO1941,Willow Distributors,Trail Mix,Vanta,Snacks,34,43.21,120.1,0.44,2122.22,0.0,2001.68,MA
+04/01/2025,SO1942,Summit Foods,Dish Soap,Crestline,Personal Care,23,11.43,21.49,49.73,429.4,0.0,358.18,MA
+04/01/2025,SO1943,Harbor Wholesale,Hand Lotion,Aurora,Personal Care,108,15.37,135.7,0.72,2398.09,0.0,2261.67,NY
+05/01/2025,SO1944,Maple Grocers,Trail Mix,Aurora,Personal Care,19,9.0,12.93,37.67,266.06,0.0,215.46,MD
+05/01/2025,SO1945,Willow Distributors,Spring Water 24pk,Northwind,Snacks,9,37.52,25.53,40.46,491.47,0.0,425.48,CT
+05/01/2025,SO1946,Birch & Co,Cola 12pk,Aurora,Beverages,5,38.53,14.56,30.68,287.98,0.0,242.74,NJ
+05/01/2025,SO1947,Summit Foods,Cola 12pk,Vanta,Beverages,108,19.76,161.34,36.16,2886.44,0.0,2688.94,MD
+05/01/2025,SO1948,Birch & Co,Hand Lotion,Vanta,Household,82,20.12,124.73,20.36,2223.89,0.0,2078.8,MD
+05/01/2025,SO1949,Birch & Co,Hand Lotion,Aurora,Snacks,106,15.86,127.1,27.46,2272.82,0.0,2118.26,MD
+05/01/2025,SO1950,Lakeside Provisions,Dish Soap,Vanta,Beverages,18,36.95,50.28,47.38,935.69,0.0,838.03,CT
+05/01/2025,SO1951,Pine Street Deli,Hand Lotion,Northwind,Snacks,38,3.26,9.37,5.05,170.51,0.0,156.09,MD
+05/01/2025,SO1952,Pine Street Deli,Cola 12pk,Aurora,Personal Care,106,15.58,124.85,3.84,2209.55,0.0,2080.86,PA
+05/01/2025,SO1953,Maple Grocers,Spring Water 24pk,Northwind,Beverages,38,36.37,104.48,35.35,1881.23,0.0,1741.4,MA
+05/01/2025,SO1954,Lakeside Provisions,Trail Mix,Aurora,Household,64,9.1,44.03,35.51,813.36,0.0,733.82,CT
+05/01/2025,SO1955,Riverside Market,Trail Mix,Crestline,Personal Care,60,15.4,69.85,11.62,1245.71,0.0,1164.24,DE
+05/01/2025,SO1956,Pine Street Deli,Cola 12pk,Crestline,Personal Care,43,19.85,64.53,14.63,1154.63,0.0,1075.47,MA
+05/01/2025,SO1957,Willow Distributors,Dish Soap,Crestline,Personal Care,59,41.06,183.14,16.07,3251.61,0.0,3052.4,MD
+05/01/2025,SO1958,Lakeside Provisions,Cola 12pk,Northwind,Personal Care,57,38.37,165.34,27.45,2948.52,0.0,2755.73,NY
+05/01/2025,SO1959,Birch & Co,Cola 12pk,Crestline,Personal Care,34,44.12,113.41,30.17,2033.68,0.0,1890.1,PA
+05/01/2025,SO1960,Willow Distributors,Dish Soap,Crestline,Personal Care,57,20.48,88.25,37.98,1597.1,0.0,1470.87,DE
+05/01/2025,SO1961,Riverside Market,Trail Mix,Northwind,Personal Care,35,40.32,106.69,25.15,1909.95,0.0,1778.11,MD
+05/01/2025,SO1962,Summit Foods,Volume Discount,Aurora,Snacks,1,-125.46,0.0,0.0,0.0,132.46,-32.92,MA
+06/01/2025,SO1963,Oakwood Retail,Cola 12pk,Vanta,Beverages,32,12.86,27.65,15.16,503.71,0.0,460.9,NY
+06/01/2025,SO1964,Maple Grocers,Spring Water 24pk,Vanta,Snacks,83,26.21,146.19,26.01,2608.68,0.0,2436.48,CT
+06/01/2025,SO1965,Riverside Market,Spring Water 24pk,Vanta,Household,81,41.51,225.95,36.03,4027.77,0.0,3765.79,NY
+06/01/2025,SO1966,Riverside Market,Cola 12pk,Crestline,Beverages,16,23.86,25.65,14.21,467.43,0.0,427.57,DE
+06/01/2025,SO1967,Lakeside Provisions,Cola 12pk,Vanta,Household,86,37.6,217.3,36.09,3875.02,0.0,3621.63,DE
+06/01/2025,SO1968,Summit Foods,Hand Lotion,Aurora,Personal Care,109,34.44,252.27,15.88,4472.59,0.0,4204.44,NJ
+06/01/2025,SO1969,Birch & Co,Dish Soap,Northwind,Snacks,99,10.94,72.78,39.15,1324.96,0.0,1213.03,NJ
+06/01/2025,SO1970,Willow Distributors,Trail Mix,Northwind,Beverages,22,14.6,21.58,35.35,416.67,0.0,359.74,PA
+06/01/2025,SO1971,Maple Grocers,Trail Mix,Northwind,Beverages,91,27.5,168.17,23.35,2994.32,0.0,2802.8,PA
+06/01/2025,SO1972,Oakwood Retail,Hand Lotion,Vanta,Personal Care,10,13.37,8.98,37.05,195.77,0.0,149.74,MA
+06/01/2025,SO1973,Birch & Co,Spring Water 24pk,Northwind,Beverages,33,42.1,93.36,41.34,1690.72,0.0,1556.02,NJ
+06/01/2025,SO1974,Birch & Co,Cola 12pk,Crestline,Household,111,14.36,107.11,42.14,1934.49,0.0,1785.24,PA
+06/01/2025,SO1975,Harbor Wholesale,Cola 12pk,Crestline,Snacks,48,27.02,87.16,45.36,1585.12,0.0,1452.6,CT
+06/01/2025,SO1976,Willow Distributors,Spring Water 24pk,Vanta,Household,55,21.22,78.43,45.5,1431.08,0.0,1307.15,NY
+06/01/2025,SO1977,Birch & Co,Spring Water 24pk,Vanta,Beverages,116,42.33,329.97,33.76,5863.24,0.0,5499.51,MA
+06/01/2025,SO1978,Oakwood Retail,Spring Water 24pk,Crestline,Household,21,31.85,44.95,24.69,818.75,0.0,749.11,MA
+06/01/2025,SO1979,Cedar Mart,Hand Lotion,Crestline,Personal Care,37,42.07,104.6,42.21,1890.19,0.0,1743.38,MD
+06/01/2025,SO1980,Oakwood Retail,Hand Lotion,Northwind,Personal Care,59,3.18,12.61,8.35,231.09,0.0,210.13,MA
+06/01/2025,SO1981,Cedar Mart,Spring Water 24pk,Aurora,Household,25,39.77,66.81,9.14,1189.51,0.0,1113.56,NJ
+06/01/2025,SO1982,Lakeside Provisions,Volume Discount,Northwind,Snacks,1,-43.33,0.0,0.0,0.0,141.7,-189.92,MD
+06/01/2025,SO1983,Oakwood Retail,Lost,Crestline,Beverages,4,35.84,0.0,0.0,0.0,0.0,533.11,MA
+07/01/2025,SO1984,Pine Street Deli,Spring Water 24pk,Northwind,Personal Care,21,18.12,22.37,47.84,443.12,0.0,372.91,DE
+07/01/2025,SO1985,Riverside Market,Cola 12pk,Crestline,Snacks,32,39.36,74.06,23.8,1332.19,0.0,1234.33,CT
+07/01/2025,SO1986,Oakwood Retail,Trail Mix,Crestline,Household,116,11.77,80.28,18.44,1436.73,0.0,1338.01,NY
+07/01/2025,SO1987,Cedar Mart,Trail Mix,Northwind,Snacks,112,3.12,20.55,42.95,405.95,0.0,342.45,DE
+07/01/2025,SO1988,Pine Street Deli,Trail Mix,Northwind,Snacks,17,20.49,20.48,41.11,402.95,0.0,341.36,NY
+07/01/2025,SO1989,Willow Distributors,Dish Soap,Northwind,Snacks,35,33.23,68.39,18.56,1226.74,0.0,1139.79,MD
+07/01/2025,SO1990,Riverside Market,Spring Water 24pk,Aurora,Personal Care,42,22.84,56.41,44.01,1040.51,0.0,940.09,MA
+07/01/2025,SO1991,Birch & Co,Spring Water 24pk,Aurora,Personal Care,101,36.44,216.41,37.7,3860.94,0.0,3606.83,PA
+07/01/2025,SO1992,Cedar Mart,Cola 12pk,Crestline,Household,113,15.4,102.32,6.83,1814.55,0.0,1705.4,CT
+07/01/2025,SO1993,Birch & Co,Dish Soap,Northwind,Personal Care,11,8.28,5.36,36.85,131.47,0.0,89.26,NY
+07/01/2025,SO1994,Maple Grocers,Cola 12pk,Northwind,Personal Care,74,30.08,130.88,19.76,2332.04,0.0,2181.4,CT
+07/01/2025,SO1995,Birch & Co,Dish Soap,Aurora,Personal Care,108,22.66,143.9,28.96,2571.19,0.0,2398.33,MD
+07/01/2025,SO1996,Cedar Mart,Spring Water 24pk,Northwind,Personal Care,25,15.07,22.15,18.39,409.76,0.0,369.22,PA
+07/01/2025,SO1997,Maple Grocers,Trail Mix,Aurora,Personal Care,61,37.58,134.79,39.1,2420.42,0.0,2246.53,MA
+07/01/2025,SO1998,Oakwood Retail,Dish Soap,Aurora,Household,57,14.24,47.73,41.77,884.95,0.0,795.45,NY
+07/01/2025,SO1999,Harbor Wholesale,Dish Soap,Crestline,Personal Care,50,13.16,38.69,45.55,729.08,0.0,644.84,MA
+07/01/2025,SO2000,Oakwood Retail,Trail Mix,Crestline,Personal Care,6,3.81,1.34,6.22,29.96,0.0,22.4,CT
+07/01/2025,SO2001,Lakeside Provisions,Dish Soap,Northwind,Household,14,4.32,3.56,36.81,99.64,0.0,59.27,MD
+07/01/2025,SO2002,Pine Street Deli,Hand Lotion,Vanta,Snacks,106,25.3,157.69,29.76,2815.61,0.0,2628.16,MA
+07/01/2025,SO2003,Willow Distributors,Trail Mix,Northwind,Beverages,28,33.44,55.06,43.88,1016.53,0.0,917.59,DE
+07/01/2025,SO2004,Harbor Wholesale,Cola 12pk,Crestline,Personal Care,64,19.7,74.13,38.12,1347.83,0.0,1235.58,MD
+07/01/2025,SO2005,Harbor Wholesale,Trail Mix,Vanta,Snacks,32,14.22,26.76,10.99,483.69,0.0,445.94,CT
+07/01/2025,SO2006,Summit Foods,Hand Lotion,Aurora,Personal Care,96,43.99,248.31,6.28,4393.17,0.0,4138.58,NY
+07/01/2025,SO2007,Cedar Mart,Dish Soap,Crestline,Household,57,6.21,20.81,19.13,386.83,0.0,346.89,MA
+07/01/2025,SO2008,Lakeside Provisions,Spring Water 24pk,Aurora,Snacks,109,8.05,51.59,13.28,924.77,0.0,859.9,NJ
+07/01/2025,SO2009,Pine Street Deli,Hand Lotion,Northwind,Beverages,100,16.95,99.67,17.09,1777.86,0.0,1661.1,CT
+07/01/2025,SO2010,Pine Street Deli,Dish Soap,Crestline,Household,59,24.75,85.86,17.4,1534.3,0.0,1431.04,MA
+07/01/2025,SO2011,Birch & Co,Volume Discount,Crestline,Household,1,-20.24,0.0,0.0,0.0,73.96,-136.36,NJ
+08/01/2025,SO2012,Riverside Market,Dish Soap,Vanta,Snacks,77,25.97,105.28,41.49,1901.52,0.0,1754.75,MA
+08/01/2025,SO2013,Pine Street Deli,Dish Soap,Northwind,Household,91,35.78,171.43,22.9,3051.49,0.0,2857.16,DE
+08/01/2025,SO2014,Cedar Mart,Spring Water 24pk,Vanta,Personal Care,90,9.4,44.54,44.97,831.89,0.0,742.38,MA
+08/01/2025,SO2015,Cedar Mart,Trail Mix,Crestline,Snacks,33,12.59,21.87,12.33,398.78,0.0,364.58,DE
+08/01/2025,SO2016,Lakeside Provisions,Cola 12pk,Crestline,Personal Care,32,22.88,38.55,2.99,684.02,0.0,642.48,MD
+08/01/2025,SO2017,Riverside Market,Trail Mix,Aurora,Household,48,5.43,13.72,47.89,290.32,0.0,228.71,NY
+08/01/2025,SO2018,Oakwood Retail,Dish Soap,Crestline,Household,13,13.04,8.93,26.54,184.23,0.0,148.76,MA
+08/01/2025,SO2019,Pine Street Deli,Hand Lotion,Vanta,Household,88,25.87,119.86,48.14,2165.71,0.0,1997.71,DE
+08/01/2025,SO2020,Lakeside Provisions,Trail Mix,Vanta,Snacks,32,35.63,60.03,10.25,1070.79,0.0,1000.51,MD
+08/01/2025,SO2021,Summit Foods,Trail Mix,Aurora,Household,94,11.22,55.53,7.04,988.07,0.0,925.5,DE
+08/01/2025,SO2022,Harbor Wholesale,Trail Mix,Aurora,Personal Care,30,38.58,60.94,15.76,1092.33,0.0,1015.63,NJ
+08/01/2025,SO2023,Riverside Market,Hand Lotion,Aurora,Beverages,87,9.17,42.0,40.56,782.63,0.0,700.07,NJ
+08/01/2025,SO2024,Birch & Co,Spring Water 24pk,Vanta,Beverages,108,41.07,233.54,8.19,4133.99,0.0,3892.26,PA
+08/01/2025,SO2025,Riverside Market,Hand Lotion,Northwind,Household,79,13.92,57.9,17.26,1040.14,0.0,964.98,NY
+08/01/2025,SO2026,Pine Street Deli,Hand Lotion,Northwind,Snacks,56,17.17,50.62,36.25,930.62,0.0,843.75,NY
+08/01/2025,SO2027,Maple Grocers,Spring Water 24pk,Northwind,Household,61,40.39,129.72,35.39,2327.12,0.0,2162.01,MD
+08/01/2025,SO2028,Cedar Mart,Hand Lotion,Crestline,Household,118,31.98,198.69,46.53,3556.64,0.0,3311.42,MA
+08/01/2025,SO2029,Summit Foods,Cola 12pk,Vanta,Snacks,88,29.5,136.68,22.38,2437.08,0.0,2278.02,MA
+08/01/2025,SO2030,Willow Distributors,Hand Lotion,Vanta,Household,58,20.46,62.48,15.1,1118.91,0.0,1041.33,PA
+08/01/2025,SO2031,Birch & Co,Trail Mix,Vanta,Beverages,102,13.16,70.67,25.03,1273.6,0.0,1177.9,CT
+08/01/2025,SO2032,Pine Street Deli,Lost,Vanta,Household,6,42.0,0.0,0.0,0.0,0.0,620.64,PA
+09/01/2025,SO2033,Maple Grocers,Spring Water 24pk,Crestline,Snacks,50,21.18,53.37,2.19,945.12,0.0,889.56,PA
+09/01/2025,SO2034,Cedar Mart,Cola 12pk,Crestline,Beverages,98,39.29,194.06,24.07,3452.48,0.0,3234.35,DE
+09/01/2025,SO2035,Cedar Mart,Dish Soap,Vanta,Beverages,113,5.1,29.05,42.18,555.32,0.0,484.09,MD
+09/01/2025,SO2036,Pine Street Deli,Cola 12pk,Vanta,Snacks,116,44.79,261.86,26.36,4652.56,0.0,4364.34,MD
+09/01/2025,SO2037,Birch & Co,Dish Soap,Aurora,Snacks,99,13.16,65.66,48.03,1208.08,0.0,1094.39,CT
+09/01/2025,SO2038,Lakeside Provisions,Trail Mix,Vanta,Snacks,20,29.73,29.97,24.91,554.34,0.0,499.46,DE
+09/01/2025,SO2039,Lakeside Provisions,Trail Mix,Vanta,Household,60,32.89,99.46,49.06,1806.18,0.0,1657.66,NJ
+09/01/2025,SO2040,Harbor Wholesale,Cola 12pk,Vanta,Household,80,13.9,56.04,21.85,1011.97,0.0,934.08,PA
+09/01/2025,SO2041,Lakeside Provisions,Trail Mix,Crestline,Beverages,23,10.4,12.06,10.7,223.69,0.0,200.93,NY
+09/01/2025,SO2042,Pine Street Deli,Spring Water 24pk,Northwind,Personal Care,86,44.21,191.62,9.51,3394.86,0.0,3193.73,MA
+09/01/2025,SO2043,Pine Street Deli,Cola 12pk,Vanta,Personal Care,119,33.75,202.42,17.75,3593.82,0.0,3373.65,NY
+09/01/2025,SO2044,Maple Grocers,Trail Mix,Crestline,Beverages,21,43.33,45.86,26.07,836.27,0.0,764.34,MA
+09/01/2025,SO2045,Summit Foods,Spring Water 24pk,Aurora,Household,70,43.62,153.89,19.64,2738.39,0.0,2564.86,PA
+09/01/2025,SO2046,Cedar Mart,Spring Water 24pk,Northwind,Snacks,110,23.03,127.68,35.92,2291.57,0.0,2127.97,NJ
+09/01/2025,SO2047,Maple Grocers,Hand Lotion,Northwind,Snacks,115,12.75,73.9,22.91,1328.46,0.0,1231.65,PA
+09/01/2025,SO2048,Pine Street Deli,Hand Lotion,Vanta,Household,85,9.83,42.11,28.25,772.22,0.0,701.86,CT
+09/01/2025,SO2049,Oakwood Retail,Spring Water 24pk,Aurora,Snacks,90,38.92,176.54,30.15,3149.04,0.0,2942.35,NJ
+09/01/2025,SO2050,Lakeside Provisions,Spring Water 24pk,Crestline,Personal Care,41,3.38,6.98,17.85,141.24,0.0,116.41,NY
+09/01/2025,SO2051,Pine Street Deli,Hand Lotion,Northwind,Beverages,32,12.6,20.32,31.72,390.73,0.0,338.69,NJ
+09/01/2025,SO2052,Lakeside Provisions,Hand Lotion,Northwind,Snacks,92,36.94,171.28,8.89,3034.89,0.0,2854.72,DE
+09/01/2025,SO2053,Harbor Wholesale,Hand Lotion,Aurora,Beverages,59,33.61,99.94,4.77,1770.42,0.0,1665.71,MA
+09/01/2025,SO2054,Cedar Mart,Hand Lotion,Northwind,Household,105,13.32,70.49,20.14,1265.45,0.0,1174.82,PA
+09/01/2025,SO2055,Maple Grocers,Cola 12pk,Northwind,Beverages,112,30.82,173.97,5.93,3079.45,0.0,2899.55,PA
+09/01/2025,SO2056,Pine Street Deli,Trail Mix,Vanta,Household,13,9.46,6.2,49.5,159.0,0.0,103.3,NJ
+09/01/2025,SO2057,Riverside Market,Trail Mix,Northwind,Personal Care,38,44.72,85.65,2.25,1515.36,0.0,1427.46,PA
+09/01/2025,SO2058,Summit Foods,Dish Soap,Aurora,Beverages,97,23.23,113.57,31.77,2038.12,0.0,1892.78,CT
+09/01/2025,SO2059,Maple Grocers,Spring Water 24pk,Northwind,Personal Care,24,34.68,41.95,45.92,787.02,0.0,699.15,DE
+09/01/2025,SO2060,Willow Distributors,Damaged,Crestline,Beverages,1,36.08,0.0,0.0,0.0,0.0,238.25,CT
+10/01/2025,SO2061,Cedar Mart,Spring Water 24pk,Northwind,Household,57,18.06,54.2,32.83,990.36,0.0,903.33,MD
+10/01/2025,SO2062,Maple Grocers,Dish Soap,Aurora,Snacks,118,40.89,254.04,43.87,4531.93,0.0,4234.02,DE
+10/01/2025,SO2063,Summit Foods,Hand Lotion,Aurora,Snacks,24,7.28,9.2,25.3,187.82,0.0,153.32,PA
+10/01/2025,SO2064,Cedar Mart,Trail Mix,Crestline,Beverages,79,34.57,143.79,11.43,2551.73,0.0,2396.51,DE
+10/01/2025,SO2065,Oakwood Retail,Trail Mix,Vanta,Household,69,10.36,37.64,43.34,708.26,0.0,627.28,NJ
+10/01/2025,SO2066,Cedar Mart,Cola 12pk,Vanta,Household,113,12.45,74.07,21.57,1330.17,0.0,1234.53,MA
+10/01/2025,SO2067,Harbor Wholesale,Cola 12pk,Vanta,Snacks,15,26.66,21.06,21.38,393.36,0.0,350.92,MA
+10/01/2025,SO2068,Oakwood Retail,Hand Lotion,Crestline,Household,80,34.87,146.87,14.12,2608.9,0.0,2447.91,MD
+10/01/2025,SO2069,Riverside Market,Cola 12pk,Northwind,Snacks,64,21.06,70.96,45.19,1298.9,0.0,1182.75,CT
+10/01/2025,SO2070,Pine Street Deli,Cola 12pk,Crestline,Household,30,40.49,63.95,20.97,1150.83,0.0,1065.91,CT
+10/01/2025,SO2071,Birch & Co,Hand Lotion,Aurora,Snacks,8,37.57,15.82,44.44,324.01,0.0,263.75,NJ
+10/01/2025,SO2072,Willow Distributors,Trail Mix,Crestline,Household,118,11.6,72.07,29.56,1302.77,0.0,1201.14,DE
+10/01/2025,SO2073,Birch & Co,Hand Lotion,Aurora,Snacks,45,15.42,36.53,29.69,675.13,0.0,608.91,MA
+10/01/2025,SO2074,Birch & Co,Trail Mix,Vanta,Household,50,11.7,30.8,3.56,547.71,0.0,513.35,PA
+10/01/2025,SO2075,Oakwood Retail,Spring Water 24pk,Vanta,Beverages,72,15.4,58.38,43.97,1075.34,0.0,972.99,MA
+10/01/2025,SO2076,Maple Grocers,Trail Mix,Aurora,Snacks,5,20.2,5.32,40.54,134.49,0.0,88.63,MD
+10/01/2025,SO2077,Harbor Wholesale,Spring Water 24pk,Aurora,Personal Care,44,5.0,11.58,36.34,240.97,0.0,193.05,NY
+10/01/2025,SO2078,Maple Grocers,Cola 12pk,Aurora,Personal Care,97,35.39,180.74,32.73,3225.82,0.0,3012.35,DE
+10/01/2025,SO2079,Birch & Co,Cola 12pk,Vanta,Household,71,24.66,92.18,23.16,1651.74,0.0,1536.4,NJ
+10/01/2025,SO2080,Harbor Wholesale,Cola 12pk,Crestline,Beverages,57,14.86,44.6,21.26,809.13,0.0,743.27,NJ
+10/01/2025,SO2081,Cedar Mart,Spring Water 24pk,Northwind,Personal Care,73,19.46,74.79,27.34,1348.71,0.0,1246.58,MD
+10/01/2025,SO2082,Maple Grocers,Lost,Vanta,Household,6,18.21,0.0,0.0,0.0,0.0,592.35,NJ
+11/01/2025,SO2083,Birch & Co,Spring Water 24pk,Crestline,Beverages,11,11.55,7.47,0.5,132.48,0.0,124.51,MD
+11/01/2025,SO2084,Riverside Market,Trail Mix,Crestline,Beverages,88,12.68,65.61,0.07,1159.2,0.0,1093.52,NJ
+11/01/2025,SO2085,Birch & Co,Hand Lotion,Northwind,Snacks,51,11.03,33.08,15.5,599.86,0.0,551.28,NY
+11/01/2025,SO2086,Willow Distributors,Trail Mix,Northwind,Personal Care,119,30.85,215.86,37.09,3850.68,0.0,3597.73,DE
+11/01/2025,SO2087,Willow Distributors,Dish Soap,Aurora,Personal Care,73,34.88,149.72,30.48,2675.52,0.0,2495.32,DE
+11/01/2025,SO2088,Riverside Market,Trail Mix,Vanta,Snacks,34,16.66,33.31,35.63,624.05,0.0,555.11,MA
+11/01/2025,SO2089,Birch & Co,Dish Soap,Vanta,Snacks,31,14.4,26.25,6.27,469.99,0.0,437.47,MA
+11/01/2025,SO2090,Oakwood Retail,Dish Soap,Vanta,Household,116,40.88,278.83,40.33,4966.4,0.0,4647.24,MD
+11/01/2025,SO2091,Lakeside Provisions,Hand Lotion,Crestline,Household,43,12.26,31.0,38.12,585.76,0.0,516.64,MA
+11/01/2025,SO2092,Willow Distributors,Cola 12pk,Northwind,Snacks,58,27.81,94.84,33.05,1708.61,0.0,1580.72,CT
+11/01/2025,SO2093,Oakwood Retail,Hand Lotion,Crestline,Personal Care,63,20.41,75.61,37.69,1373.41,0.0,1260.11,CT
+11/01/2025,SO2094,Maple Grocers,Dish Soap,Aurora,Beverages,36,10.03,21.23,39.03,414.12,0.0,353.86,MA
+11/01/2025,SO2095,Pine Street Deli,Spring Water 24pk,Northwind,Household,13,14.29,10.92,31.42,224.39,0.0,182.05,NY
+11/01/2025,SO2096,Oakwood Retail,Spring Water 24pk,Northwind,Household,90,14.14,74.83,30.08,1352.06,0.0,1247.15,MA
+11/01/2025,SO2097,Riverside Market,Spring Water 24pk,Northwind,Personal Care,56,29.55,97.3,6.5,1725.5,0.0,1621.7,PA
+11/01/2025,SO2098,Summit Foods,Dish Soap,Northwind,Household,105,7.31,45.13,25.69,823.02,0.0,752.2,MA
+11/01/2025,SO2099,Harbor Wholesale,Dish Soap,Northwind,Household,93,10.23,55.94,48.62,1036.92,0.0,932.36,NJ
+11/01/2025,SO2100,Willow Distributors,Trail Mix,Vanta,Beverages,92,9.68,52.36,9.01,934.12,0.0,872.75,DE
+11/01/2025,SO2101,Cedar Mart,Trail Mix,Crestline,Personal Care,43,22.39,56.61,46.05,1046.17,0.0,943.51,MD
+11/01/2025,SO2102,Willow Distributors,Dish Soap,Aurora,Beverages,27,8.26,13.11,42.52,274.19,0.0,218.56,DE
+11/01/2025,SO2103,Riverside Market,Spring Water 24pk,Vanta,Household,61,14.51,52.04,40.35,959.8,0.0,867.41,PA
+11/01/2025,SO2104,Lakeside Provisions,Spring Water 24pk,Vanta,Snacks,97,8.97,51.16,10.67,914.52,0.0,852.69,DE
+11/01/2025,SO2105,Lakeside Provisions,Spring Water 24pk,Aurora,Household,88,44.1,228.19,42.83,4074.2,0.0,3803.18,MA
+11/01/2025,SO2106,Oakwood Retail,Cola 12pk,Aurora,Snacks,67,35.12,138.36,33.55,2477.89,0.0,2305.98,PA
+11/01/2025,SO2107,Summit Foods,Spring Water 24pk,Northwind,Personal Care,113,42.78,284.25,24.81,5046.52,0.0,4737.46,CT
+11/01/2025,SO2108,Willow Distributors,Volume Discount,Aurora,Snacks,1,-49.35,0.0,0.0,0.0,161.52,-152.2,CT
+11/01/2025,SO2109,Pine Street Deli,Lost,Northwind,Snacks,3,35.85,0.0,0.0,0.0,0.0,143.29,DE
+12/01/2025,SO2110,Cedar Mart,Cola 12pk,Aurora,Beverages,37,43.75,108.78,21.88,1943.66,0.0,1813.0,MA
+12/01/2025,SO2111,Pine Street Deli,Spring Water 24pk,Vanta,Personal Care,8,26.48,14.24,25.05,276.55,0.0,237.26,MA
+12/01/2025,SO2112,Summit Foods,Trail Mix,Vanta,Personal Care,10,25.95,17.44,48.35,356.43,0.0,290.64,MA
+12/01/2025,SO2113,Cedar Mart,Hand Lotion,Northwind,Snacks,87,21.04,123.01,15.44,2188.59,0.0,2050.14,MA
+12/01/2025,SO2114,Harbor Wholesale,Spring Water 24pk,Northwind,Household,84,39.23,221.45,8.96,3921.17,0.0,3690.76,MD
+12/01/2025,SO2115,Oakwood Retail,Cola 12pk,Vanta,Beverages,68,33.01,150.84,47.62,2712.5,0.0,2514.04,NJ
+12/01/2025,SO2116,Lakeside Provisions,Dish Soap,Vanta,Household,84,8.53,48.15,43.26,893.91,0.0,802.5,NY
+12/01/2025,SO2117,Oakwood Retail,Cola 12pk,Crestline,Beverages,24,31.44,50.71,31.25,927.07,0.0,845.11,MD
+12/01/2025,SO2118,Summit Foods,Dish Soap,Crestline,Personal Care,6,39.6,15.97,33.64,315.72,0.0,266.11,MA
+12/01/2025,SO2119,Cedar Mart,Spring Water 24pk,Northwind,Snacks,105,5.98,42.2,15.64,761.09,0.0,703.25,NY
+12/01/2025,SO2120,Summit Foods,Spring Water 24pk,Crestline,Beverages,71,38.73,184.79,49.1,3313.7,0.0,3079.81,DE
+12/01/2025,SO2121,Harbor Wholesale,Cola 12pk,Aurora,Snacks,55,3.51,12.97,33.7,262.89,0.0,216.22,MD
+12/01/2025,SO2122,Maple Grocers,Dish Soap,Crestline,Beverages,101,26.05,176.81,14.38,3137.97,0.0,2946.78,PA
+12/01/2025,SO2123,Cedar Mart,Spring Water 24pk,Vanta,Household,79,11.04,58.61,20.58,1056.01,0.0,976.82,NY
+12/01/2025,SO2124,Harbor Wholesale,Cola 12pk,Northwind,Household,10,17.03,11.44,36.63,238.81,0.0,190.74,MA
+12/01/2025,SO2125,Willow Distributors,Trail Mix,Vanta,Beverages,82,28.43,156.66,12.36,2780.03,0.0,2611.01,CT
+12/01/2025,SO2126,Pine Street Deli,Trail Mix,Aurora,Beverages,37,15.0,37.3,21.64,680.54,0.0,621.6,PA
+12/01/2025,SO2127,Willow Distributors,Dish Soap,Northwind,Beverages,23,31.46,48.62,3.61,862.64,0.0,810.41,CT
+12/01/2025,SO2128,Riverside Market,Hand Lotion,Aurora,Household,98,18.7,123.15,47.22,2222.88,0.0,2052.51,DE
+12/01/2025,SO2129,Riverside Market,Spring Water 24pk,Crestline,Household,17,35.96,41.08,36.67,762.43,0.0,684.68,MD
+12/01/2025,SO2130,Harbor Wholesale,Hand Lotion,Vanta,Beverages,91,11.36,69.47,20.92,1248.2,0.0,1157.81,PA
+12/01/2025,SO2131,Willow Distributors,Cola 12pk,Vanta,Beverages,58,28.25,110.11,49.52,1994.75,0.0,1835.12,NY
+12/01/2025,SO2132,Birch & Co,Hand Lotion,Northwind,Beverages,28,14.61,27.49,21.6,507.26,0.0,458.17,NJ
+12/01/2025,SO2133,Birch & Co,Dish Soap,Northwind,Household,61,3.48,14.26,22.51,274.52,0.0,237.75,CT
+12/01/2025,SO2134,Summit Foods,Spring Water 24pk,Vanta,Household,78,10.53,55.19,48.53,1023.62,0.0,919.9,DE
+12/01/2025,SO2135,Oakwood Retail,Dish Soap,Crestline,Snacks,73,44.12,216.44,27.77,3851.46,0.0,3607.25,MA
+12/01/2025,SO2136,Maple Grocers,Dish Soap,Crestline,Personal Care,86,32.59,188.34,21.14,3348.55,0.0,3139.07,MD
+12/01/2025,SO2137,Maple Grocers,Volume Discount,Crestline,Snacks,1,-91.57,0.0,0.0,0.0,67.57,-56.96,NY
+12/01/2025,SO2138,Oakwood Retail,Lost,Northwind,Beverages,2,15.07,0.0,0.0,0.0,0.0,542.57,MD
